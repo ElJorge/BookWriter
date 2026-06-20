@@ -13,7 +13,7 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 | 6 | Donna ✓ | snatched — "a voice on the door said—" | landline wire → hand on chained door | clean | silent | clean | none | — |
 | 7 | Russ ✓ | complete image — "his name was still on the door." | van / empty wheel / name on door | clean | silent | clean | none | eaten-word fires ✓ |
 | 8 | Donna ✓ | forward motion — "into the dark." (snatch "low and sl—" mid-ch) | empty seat → seat full, hands moving | clean (Sylmar tell) | silent (thread only) | clean | none | — |
-| 9 | Cole ✓ | snatched — "Drive saf—" / "cold space where his friend had been" | wheel still → moving | clean | **SPEAKS ×2** ("Behind your seat" / "Stay at the door") | clean | none | 🔴 H1 (Cole speaks) |
+| 9 | Cole ✓ | snatched — "Drive saf—" / "cold space where his friend had been" | wheel still → moving | clean | ~~SPEAKS ×2~~ ✅ **fixed → wordless** (chin-tip / flat-hand) | clean | none | ~~H1~~ ✅ resolved |
 | 10 | Marco ✓ | held — "he does not type." (snatch "Osb—" mid-ch) | archive thumb-drag: warm msg → forged line | clean ("Osb—") | silent | clean | none | 🟢 L6 ("3:418" — likely deliberate) |
 | 11 | Devang ✓ | **coda after snatch** — "The key had turned. Russ was inside." | blinking cursor in white space | clean | silent | clean | none | 🟡 M2 (doesn't end on the snatch) |
 | 12 | Russ ✓ | snatched (final line) — "Russ was the" | hand-on-door → hand-on-man | clean | silent (explicit) | clean | none | — |
@@ -37,7 +37,7 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 
 ## Roll-ups
 
-**Cole spoken-line breaches (H1):** Ch3, Ch4, Ch5, Ch9 — the only places Cole speaks before his banked Ch24 "No." (Ch24 is the intended first word.) Everywhere else (incl. Ch12/13/14/15/16/18/20/22/23/25/26/27) he is correctly wordless.
+**Cole spoken-line breaches (H1):** ~~Ch3, Ch4, Ch5, Ch9~~ → **Ch9 fixed** (converted to wordless gesture); **Ch3/4/5 kept by decision** (recast as Cole speaking in the first shock, then falling silent — Ch24's "No." breaks that silence). Everywhere from Ch9 on he is wordless until the Ch24 payoff.
 
 **Cold-room noun:** never printed in any of the 27 chapters. ✅
 

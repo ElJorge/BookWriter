@@ -25,12 +25,14 @@ These were the things most likely to break across 27 chapters written over many 
 ## 🔴 HIGH — recommend fixing before any "final" compile
 
 ### H1. Cole speaks in Ch3, Ch4, Ch5, and Ch9 — which undercuts the Ch24 banked-word payoff
-This is the single most important finding. The book's biggest structural payoff is Cole's **first word, "No.," landing whole in Ch24** — and Ch24/25/27 explicitly treat it as the first word he has ever spoken. But four earlier chapters give Cole spoken, in-quotes dialogue:
+**STATUS (resolution chosen): Ch9 FIXED ✅; Ch3/Ch4/Ch5 KEPT by author decision.** The Ch9 slip (within the operation, Cole-POV) was the one that most cheapened the payoff, so Cole's two Ch9 spoken lines were converted to wordless gesture (chin-tip / flat-handed "stay"). The early-crisis spoken lines in Ch3–5 are kept intentionally — read now as Cole speaking in the first shock and then going (and staying) silent, with the Ch24 "No." as the word that breaks a long, deliberate silence rather than the literal first sound he ever makes.
+
+This was the single most important finding. The book's biggest structural payoff is Cole's **first word, "No.," landing whole in Ch24** — and Ch24/25/27 lean on it as the breaking of his silence. Four earlier chapters gave Cole spoken, in-quotes dialogue:
 
 - **Ch3** (phone to Donna): *"Donna." / "It's—" / "I'm. At the house. I'm at the house." / "He's— …he's not here."*
 - **Ch4** (to the deputy): *"Hey — okay. Okay, man, I know how this looks…" / "I'm a friend. I just — I drove up from Hermosa…" / "He's my friend." / "Russ," he said. "It's Russ's house."*
 - **Ch5** (phone to Donna): an extended spoken exchange (*"Yeah." / "Donna. It's — it's Cole…" / "There were two cups." / "Donna. I'm coming to you…"*).
-- **Ch9** (rescue, Cole-POV): *"Behind your seat," Cole said.* and *"Stay at the door," Cole said.* (Ch9's own editorial notes even *tuned* a Cole spoken line rather than removing it — so this is a true breach, not a typo.)
+- ~~**Ch9** (rescue, Cole-POV): *"Behind your seat," Cole said.* and *"Stay at the door," Cole said."*~~ ✅ **FIXED** → converted to wordless gesture: *"Cole tipped his chin at the space behind the seat."* and *"Cole pointed him at the door, flat-handed him to stay, and was already out of the van."* Cole now has zero spoken lines in Ch9.
 
 **Why it matters:** as written, Cole has spoken many times before Ch24, so "his first word" is not literally his first word. The payoff still *plays* emotionally, but a careful reader (or a back-cover/marketing claim, or a sequel) can catch it.
 
@@ -38,7 +40,7 @@ This is the single most important finding. The book's biggest structural payoff 
 
 **Alternative (no edits):** redefine the canon as "Cole is wordless *on the Chain / in the group's shared register*, and the banked 'No.' is his first word *to the engine / in the operation*." This salvages the early chapters but weakens and complicates the payoff. **Not recommended** — the literal-first-word reading is far stronger.
 
-→ *Decision needed from you: fix the four chapters, or relax the canon? I'd fix the chapters.*
+→ *Decision made: Ch9 fixed; Ch3/4/5 kept (canon now reads as "Cole spoke in the first shock, then fell silent"). The Ch24 "No." is the word that breaks that silence.*
 
 ### H2. ✅ RESOLVED — Weekday unified to **Saturday**
 Was: Ch1 said "Tuesday," Ch2 (same continuous day) said "Saturday" ×3. Fixed by changing the story-day references in Ch1/Ch5 to Saturday (Ch2/3/8 already said Saturday):
@@ -85,7 +87,7 @@ The Ch24 ("No.") and Ch27 (full close) inversions lean on the idea that *every* 
 ---
 
 ## Suggested order of operations
-1. **Decide H1** (Cole's early speech) — it's the only finding that touches a major payoff, and it's a clean ~4-chapter edit if you want it.
+1. ~~**Decide H1** (Cole's early speech)~~ ✅ done — Ch9 fixed, Ch3/4/5 kept by decision.
 2. ~~**Fix H2** (weekday)~~ ✅ done. **M1** (four winks) — quick, unambiguous corrections.
 3. **Rule on M2/M3/M4** (deliberate variant vs. tighten).
 4. **Before compiling/exporting:** do **L1** (strip metadata) and decide **L3** (titles).

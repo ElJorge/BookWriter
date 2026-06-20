@@ -80,7 +80,7 @@ The op went live at the speed of a thumb.
 > marco: 4. theo you are the ride-along. you carry a clipboard. there's a clipboard behind cole's seat, russ kept one, there's ALWAYS a clipboard
 > marco: 5. if anyone asks: unit's icing up on the northeast rooftop, you've got a 9pm window, you'd rather be home too. BORED. you cannot oversell BORED
 
-"Behind your seat," Cole said. Three words. Theo twisted around, found the clipboard, held it up like a relic. A clipboard. A pen on a string.
+Cole tipped his chin at the space behind the seat. Theo twisted around, found the clipboard, held it up like a relic. A clipboard. A pen on a string.
 
 "Oh my god, there's a pen on a string," Theo said. "He had a pen on a string."
 
@@ -116,7 +116,7 @@ Neither said it. There was nothing to say that the work didn't say first, and th
 
 "Orange tag's the master, the little brass one's the roof hatch, he labels 'em with nail polish, don't ask, you good?" Theo said it fast, too much, the flood pouring over the unbearable thing the way water covers a stone. "I'm on your six, I'm the clipboard, I'm bored, I'm so bored, look at me, I'm a guy who'd rather be home —"
 
-"Stay at the door," Cole said. He was already out of the van.
+Cole pointed him at the door, flat-handed him to stay, and was already out of the van.
 
 ---
 
