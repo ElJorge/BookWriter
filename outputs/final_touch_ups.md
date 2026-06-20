@@ -62,11 +62,11 @@ Exactly the tic the later editor scrubbed from Ch8+ — these four slipped throu
 - **Ch4:** *"Cole understood it a half-beat **after the reader did**"* → reader-facing address. Fix: cut "after the reader did."
 - **Ch5:** *"the only thing **in the book** actually looking at the thing"* → breaks the frame. Fix: remove "in the book."
 
-### M2. Ch11 doesn't end on the snatched word (the only non-finale chapter that doesn't)
-The dash-hook (*"It's where they keep the —"* / the line eats it) lands mid-chapter, then four paragraphs of coda close on a hard period: *"The key had turned. Russ was inside."* Every other Ch3–23/26 chapter ends on the snatch. **Decide:** accept as a deliberate variant (the coda is a strong beat), or move the cursor/coda before the snatch so the chapter ends on the dash like its siblings.
+### M2. ✅ RESOLVED — Ch11 now ends on the snatch
+Was: the chapter closed on a hard period (*"The key had turned. Russ was inside."*) instead of the snatch. **Fixed:** final line changed to *"The key had turned. Russ was —"* — ends on the dash like every sibling chapter, and lands the chapter's own eaten-word theme on Devang's most important word (pulls into Ch12, where Russ is inside).
 
-### M3. Ch21 final line crosses the format membrane
-*"It's not next week," Marco's words read. "It's —"* renders **remote text** (Marco's screen message — note "Marco's words read") in the **prose-in-quotes** format reserved for live voices, three lines after the same content appears correctly as `> marco:`. **Fix (optional):** keep the final hook inside a `> marco:` block, or accept it as an intentional hook convention. Minor.
+### M3. ✅ RESOLVED — Ch21 final line now membrane-correct
+Was: *"It's not next week," Marco's words read. "It's —"* rendered remote screen text in the live-voice prose-quote format. **Fixed:** trimmed the duplicate mid-burst snatch (line now reads as a complete alarm: *"…IT'S NOT NEXT WEEK ANYMORE"*) and ended the chapter on a membrane-correct `> marco:` screen line — Theo looking back at the frozen screen, then *"> marco: IT'S —"* (the imminent timeframe eaten). Snatch preserved, membrane clean, no redundancy.
 
 ### M4. The "26 snatched endings → the finale ends whole" framing has two early exceptions
 The Ch24 ("No.") and Ch27 (full close) inversions lean on the idea that *every* prior chapter ended on a snatched/dashed word. But **Ch1 ends on a complete sentence** (*"It did not light."*) and **Ch2 ends on a complete image** (the snatch is a mid-chapter DM, not the last line); Ch11's coda is also a hard period (see M2). The inversions still work at the word level (whole word vs. dashed word), but if you want the "first chapter to truly close" claim to be airtight, consider tightening Ch1/Ch2/Ch11 endings — or simply know the framing is thematic, not literal. **Low-stakes; noted for awareness.**
@@ -89,7 +89,7 @@ The Ch24 ("No.") and Ch27 (full close) inversions lean on the idea that *every* 
 ## Suggested order of operations
 1. ~~**Decide H1** (Cole's early speech)~~ ✅ done — Ch9 fixed, Ch3/4/5 kept by decision.
 2. ~~**Fix H2** (weekday)~~ ✅ done. **M1** (four winks) — quick, unambiguous corrections.
-3. **Rule on M2/M3/M4** (deliberate variant vs. tighten).
+3. ~~**Rule on M2/M3**~~ ✅ done (both fixed). **M4** remains a low-stakes awareness note.
 4. **Before compiling/exporting:** do **L1** (strip metadata) and decide **L3** (titles).
 5. The rest (L2, L4–L8) are confirm-intent items — most are probably already intentional.
 

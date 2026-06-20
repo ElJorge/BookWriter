@@ -221,7 +221,7 @@ Up in the corner Marco's screen moved.
 
 > marco: HOLD
 > marco: THE BLANK JUST MOVED
-> marco: THE DATE — IT NOTICED US — IT'S NOT NEXT WEEK ANYMORE IT'S —
+> marco: THE DATE — IT NOTICED US — IT'S NOT NEXT WEEK ANYMORE
 
 The white box on the screen had been a far-off date, a problem for later, a thing pointing politely at the future. Now it sat closer. The build was itself an input; the machine had registered a record forming and the schedule had jumped to meet it. Cole's knuckle pressed white on the bar and the word in him climbed to maximum and *stayed,* unspent, the loudest banked silence yet.
 
@@ -229,4 +229,6 @@ Theo's mouth was open. Nothing came out, which for him was its own catastrophe.
 
 He looked down. Two glasses on the bar now, not one — his ghost glass full in front of her, and somewhere in the last hour she'd slid one stool over to be near it, to be near the chain, so the seat that had meant *alone* when he set it down meant *held* now, a place saved, the exact little shape he built for strangers built at last for someone who mattered. Filled. Crossed. And tilting.
 
-"It's not next week," Marco's words read. "It's —"
+He looked back up at the corner of the room. Marco's next line had started and stopped, the cursor stuck against the white where the number should be.
+
+> marco: IT'S —

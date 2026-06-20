@@ -15,7 +15,7 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 | 8 | Donna ✓ | forward motion — "into the dark." (snatch "low and sl—" mid-ch) | empty seat → seat full, hands moving | clean (Sylmar tell) | silent (thread only) | clean | none | — |
 | 9 | Cole ✓ | snatched — "Drive saf—" / "cold space where his friend had been" | wheel still → moving | clean | ~~SPEAKS ×2~~ ✅ **fixed → wordless** (chin-tip / flat-hand) | clean | none | ~~H1~~ ✅ resolved |
 | 10 | Marco ✓ | held — "he does not type." (snatch "Osb—" mid-ch) | archive thumb-drag: warm msg → forged line | clean ("Osb—") | silent | clean | none | 🟢 L6 ("3:418" — likely deliberate) |
-| 11 | Devang ✓ | **coda after snatch** — "The key had turned. Russ was inside." | blinking cursor in white space | clean | silent | clean | none | 🟡 M2 (doesn't end on the snatch) |
+| 11 | Devang ✓ | snatched — "The key had turned. Russ was —" | blinking cursor in white space | clean | silent | clean | none | ~~M2~~ ✅ fixed (now ends on the snatch) |
 | 12 | Russ ✓ | snatched (final line) — "Russ was the" | hand-on-door → hand-on-man | clean | silent (explicit) | clean | none | — |
 | 13 | Donna ✓ | snatched — "It seems you've all decided to —" | turned lock | clean ("they're —") | silent | clean | none | collector pronoun-shift = allowed dialogue ✓ |
 | 14 | Theo ✓ | snatched — "...on the —" | steady hand/green → shaking hand/red | clean | silent | clean | none | collector UPGRADE confirmed ✓ |
@@ -25,7 +25,7 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 | 18 | Russ ✓ | event-eaten — "...on the —" | hands invisible/dead card → hands visible/card closing | clean | silent | clean | none | — |
 | 19 | Devang ✓ | snatched — "...or it's—" | green node "mine" → "watching" | clean | silent | clean | none | self-approving-engine reveal ✓ |
 | 20 | Marco ✓ | snatched — "He said the start of the n—" | blank field "pending" → "taken"/dated forward | clean | silent | clean | none | scale reveal (41 rooms); architect-fingerprint reserved ✓ |
-| 21 | Theo ✓ | snatched — "It's —" | one glass/stool → two glasses/"held" | clean | silent | **edge case** (remote text in prose-quotes at final line) | none | 🟡 M3 |
+| 21 | Theo ✓ | snatched — "> marco: IT'S —" (membrane-correct) | one glass/stool → two glasses/"held" | clean | silent | ~~edge case~~ ✅ fixed | none | ~~M3~~ ✅ fixed |
 | 22 | Rhea ✓ | snatched — "what it said was —" | one name → column of names | clean | silent | clean | none | Rhea full name clean |
 | 23 | Donna ✓ | snatched (article) — "his hand on the" | "Seven" → "Five" headcount | clean | silent | clean | none | — |
 | 24 | Cole ✓ | **WHOLE — "No."** (inversion #1) | full hands/closed mouth/breath → mouth opens | clean | **"No." FIRES** (the payoff) | clean | none (first-word wink scrubbed) | payoff lands ✓ |
@@ -43,7 +43,9 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 
 **Fictive-frame / device-naming winks surviving in prose:** 4 total, all in pre-discipline chapters — Ch3 (×1), Ch4 (×2), Ch5 (×1). Ch6–27 prose is clean. ✅ (later chapters' notes log many such winks *caught and scrubbed* during their own edits.)
 
-**Ending-signature exceptions:** Ch1 (complete sentence), Ch2 (snatch is mid-chapter, not final line), Ch11 (coda after the snatch). All other Ch3–23/26 end on the snatch; Ch24 inverts to a whole word; Ch27 closes complete (intended finale inversion).
+**Ending-signature exceptions:** Ch1 (complete sentence), Ch2 (snatch is mid-chapter, not final line). ~~Ch11 (coda after the snatch)~~ ✅ fixed — Ch11 now ends on the snatch. All other Ch3–23/26 end on the snatch; Ch24 inverts to a whole word; Ch27 closes complete (intended finale inversion).
+
+**Membrane:** ~~Ch21 final-line edge case~~ ✅ fixed. Clean everywhere.
 
 **Weekday contradiction:** ~~Ch1 "Tuesday" vs Ch2 "Saturday"~~ ✅ RESOLVED — unified to Saturday (Ch1 ×2, Ch5 callback → "since that morning").
 

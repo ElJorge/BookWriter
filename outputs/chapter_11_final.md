@@ -245,4 +245,4 @@ On.
 
 Off.
 
-The key had turned. Russ was inside.
+The key had turned. Russ was —
