@@ -55,4 +55,4 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 
 **Name/place consistency:** Rhea Okonkwo-Dale, Russ/Donna Hayes, Carol, Camino Verde/Simi Valley (house), Osbourne St./Sylmar (cold-room site) — all consistent. ✅ (Osbourne/Sylmar flagged provisional per chapters' own notes — see L2.)
 
-**Production:** all 27 files still carry the `# Chapter N — Final` + `## Editorial Notes` metadata block above the first `---`; strip before any reader-facing compile (L1).
+**Production:** ~~all 27 files still carry the `## Editorial Notes` metadata block~~ ✅ RESOLVED — Editorial Notes moved to `editorial_notes_chN.md` (×27); chapter files are now `# Chapter N — Final` + prose only (prose verified byte-identical, 0 mismatches).

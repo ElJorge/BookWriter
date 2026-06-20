@@ -1,18 +1,5 @@
 # Chapter 3 — Final
 
-## Editorial Notes
-- **Word count (final):** ~2,400 words of prose (on-page chat lines excluded from this count, consistent with Ch1/Ch2 accounting; ~2,610 including them).
-- **Key changes from draft:**
-  - Culled the author's tell-don't-show seams to one load-bearing gloss per major beat (the series' established editorial bar). Cut the redundant "most Russ thing in the world" explainer after the page — the runbook reveal and "He had *planned.*" already deliver it — and trimmed Beat 4's comprehension/money paragraphs, which twice restated the series' own "joke is the flinch" rule and over-explained the DM the reader had already decoded. Kept the single best gloss in each beat ("It is a thing held open," "It was a *runbook,*" "He protected the thing instead of laughing at it").
-  - Tightened the Beat 4 money beat from a muddy three-sentence explainer into one clean thriller image ("a wall of money doesn't write *no cops*... It came with a person.") so the financial wall gets its face without an authorial lecture.
-  - Cut adverbs and limp/passive constructions and sharpened a few weak verbs in the connective tissue, accelerating the approach to each cut without touching a single joke or a single fragment of Cole's speech.
-  - Preserved every voice signature verbatim in effect — Marco's stalling "4." and fracturing em-dash; Theo's standup-into-the-void and break-to-caps; Devang's dying acronym and zero-logs jargon; Russ's flat service-call page; Cole's silence breaking into wrong-shaped fragments; Donna's plain, frightened, un-jokey first live voice cut on *"told."*
-  - Held the register quarantine absolutely (cold house / loud blind-Chain, no joke across the threshold) and kept the series rhyme exact (threshold crossed → spoken voice cut off mid-word).
-- **Flags raised:** None. No beat contradicted the outline or character notes in a way requiring upstream revision. character_crafter's edit-stage question to chief_editor (watch for register bleed across the wall) was checked and the quarantine holds clean in both directions; no controlled bleed was introduced (Assumption 7 upheld). The furnace-filter location moved from "garage" (suggested wording) to "shelf above the water heater," and the spare key was placed concretely in the meter box — both inside the locked function, no continuity break.
-- **Open questions remaining:** None. character_crafter's Q to plot_architect (does Donna believe Russ is dead?) was resolved upstream on the locked former-reading assumption and held at the edit stage. The second-presence plant (two cups / the timeline that won't close) is left planted-not-paid by design, as the Ch4 engine.
-
----
-
 The door gave.
 
 It was unlocked — that was the first thing, before the smell, before the table, before any of it. His palm had been flat against it expecting weight, expecting a fight, expecting the locked refusal of a house that did not want him, and instead the latch let go under three pounds of pressure and the door swung in on a quiet hinge, and Cole half-fell across his own braced strength into the kitchen of a man who had texted him *don't come in* and then had not turned the deadbolt. The two facts would not sit together. *He told you not to come in. He didn't lock the door.* A warning with the lock left off is not a warning. It is a thing held open. Cole stood in the doorway with his hand still raised against a door that was no longer there, and the house breathed out at him.
