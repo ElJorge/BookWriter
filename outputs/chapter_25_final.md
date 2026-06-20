@@ -1,4 +1,4 @@
-# Chapter 25 — Final
+# Chapter 25 — What the Word Does
 
 [POLISHED PROSE BEGINS HERE]
 

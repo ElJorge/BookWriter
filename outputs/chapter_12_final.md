@@ -1,4 +1,4 @@
-# Chapter 12 — Final
+# Chapter 12 — The Moral Vise
 
 His hand was flat on the door before he decided to put it there.
 

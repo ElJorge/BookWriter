@@ -1,4 +1,4 @@
-# Chapter 4 — Final
+# Chapter 4 — One of You
 
 The light finished its turn across the wall and went out, and into the dark it left behind came a fist on the door.
 

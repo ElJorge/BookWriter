@@ -1,4 +1,4 @@
-# Chapter 27 — Final
+# Chapter 27 — The Count
 
 She counted them by the face, the way she always had.
 

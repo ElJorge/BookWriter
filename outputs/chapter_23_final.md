@@ -1,4 +1,4 @@
-# Chapter 23 — Final
+# Chapter 23 — The Carry
 
 ### Fictive-frame / device-naming scrub (before → after)
 

@@ -1,4 +1,4 @@
-# Chapter 2 — Final
+# Chapter 2 — The Race to Simi Valley
 
 The word was *Delivered*, and then it wasn't.
 

@@ -1,4 +1,4 @@
-# Chapter 22 — Final
+# Chapter 22 — Share the Exposure
 
 The record had one name on it, and the name was hers.
 

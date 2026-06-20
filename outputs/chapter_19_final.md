@@ -1,4 +1,4 @@
-# Chapter 19 — Final
+# Chapter 19 — The Hand with No Person
 
 The green node sat in the middle of his map and breathed.
 

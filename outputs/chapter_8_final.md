@@ -1,4 +1,4 @@
-# Chapter 8 — Final
+# Chapter 8 — The Hands That Moved
 
 The wheel had no hands on it.
 

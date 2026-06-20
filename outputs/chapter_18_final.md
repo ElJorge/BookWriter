@@ -1,4 +1,4 @@
-# Chapter 18 — Final
+# Chapter 18 — The Blackout Crucible
 
 The first wrong thing was not the dark. It was the silence where the hum had been.
 

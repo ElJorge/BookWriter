@@ -1,4 +1,4 @@
-# Chapter 21 — Final
+# Chapter 21 — The Weld Holds at Room Temperature
 
 ### Fictive-frame / narratorial-break / DEVICE-NAMING scrub (every instance found, before → after)
 

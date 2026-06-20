@@ -1,4 +1,4 @@
-# Chapter 10 — Final
+# Chapter 10 — The Listener in the Chain
 
 he scrolls up.
 

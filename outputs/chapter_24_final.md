@@ -1,4 +1,4 @@
-# Chapter 24 — Final
+# Chapter 24 — The Word That Arrives
 
 He had carried it from the truck on his sternum like the truck had loaded a man onto him.
 

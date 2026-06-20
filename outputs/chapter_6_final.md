@@ -1,4 +1,4 @@
-# Chapter 6 — Final
+# Chapter 6 — The Face & the Negotiation
 
 The receiver was warm from the wall and smelled faintly of someone else's hand cream, and into it the voice finished the sentence it had started a breath ago, on the same breath, no gap at all between the ring and the man.
 

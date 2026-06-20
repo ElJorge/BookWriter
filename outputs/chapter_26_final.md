@@ -1,4 +1,4 @@
-# Chapter 26 — Final
+# Chapter 26 — The Room That Stays Full
 
 ### Fictive-frame / device-naming scrub (before → after)
 

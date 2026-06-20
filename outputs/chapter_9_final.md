@@ -1,4 +1,4 @@
-# Chapter 9 — Final
+# Chapter 9 — The Hunt Both Ways
 
 The wheel was moving now.
 

@@ -1,4 +1,4 @@
-# Chapter 17 — Final
+# Chapter 17 — The Woman Who Audited the Apocalypse
 
 At three in the morning the pharmacy was a lit box inside a dark one, and Rhea Okonkwo-Dale owned every inch of both.
 

@@ -1,4 +1,4 @@
-# Chapter 15 — Final
+# Chapter 15 — The Name He Can Say
 
 His hands were flat on the bar top, and they were holding nothing, and nothing was holding them.
 

@@ -1,4 +1,4 @@
-# Chapter 13 — Final
+# Chapter 13 — The Third Move
 
 The deadbolt turned the wrong way under her thumb, snug, sealed, the way she liked a door. Then she turned it back.
 
