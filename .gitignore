@@ -1,3 +1,6 @@
+# Claude Code agent memory store (not book content)
+.claude/projects/
+
 node_modules/
 npm-debug.log*
 .env
