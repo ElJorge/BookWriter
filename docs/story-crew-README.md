@@ -7,43 +7,40 @@ A four-agent markdown spec system for generating a polished Chapter 1 from a sho
 ## File Structure
 
 ```
-story_crew/
-├── README.md                   ← you are here
-├── orchestration.md            ← pipeline diagram, routing rules, kickoff instructions
+BookWriter/
+├── .claude/
+│   └── agents/                     ← Claude Code subagents (the four crew members)
+│       ├── plot-architect.md       ← Senior Plot Architect
+│       ├── character-crafter.md    ← Character & Dialogue Specialist
+│       ├── scene-weaver.md         ← Creative Storyteller & Prose Weaver
+│       └── chief-editor.md         ← Line and Executive Editor
 │
-├── agents/
-│   ├── plot_architect.md       ← Senior Plot Architect
-│   ├── character_crafter.md    ← Character & Dialogue Specialist
-│   ├── scene_weaver.md         ← Creative Storyteller & Prose Weaver
-│   └── chief_editor.md         ← Line and Executive Editor
+├── docs/
+│   ├── story-crew-README.md        ← you are here
+│   └── orchestration.md            ← pipeline diagram, routing rules, kickoff instructions
 │
-├── tasks/
-│   ├── task_outline.md         ← Task 1: build beat-by-beat outline
-│   ├── task_character_pass.md  ← Task 2: annotate characters & dialogue
-│   ├── task_draft_chapter.md   ← Task 3: write full draft (1,500+ words)
-│   └── task_edit_chapter.md    ← Task 4: polish to publication-ready
-│
-└── outputs/                    ← created at runtime by your orchestrator
+└── outputs/                        ← created at runtime by the orchestrator
     ├── outline.md
     ├── characters.md
     ├── draft.md
-    └── chapter_1_final.md      ← final deliverable
+    └── chapter_1_final.md          ← final deliverable
 ```
+
+Each subagent is self-contained: its task spec (output format, requirements) is
+embedded directly in the agent file, so there is no separate `tasks/` directory.
 
 ---
 
 ## How to Use These Files
 
-Each agent call should be constructed as:
+Each crew member is a Claude Code subagent in `.claude/agents/`. Invoke one by name
+and hand it the upstream artifacts as context, e.g.:
 
 ```
-SYSTEM:
-  [contents of agents/<agent_id>.md]
-  [contents of tasks/<task_id>.md]
-
-USER:
-  [upstream output files as context]
-  [the book_prompt on Task 1]
+Use the plot-architect subagent on this prompt: <book_prompt>
+Use the character-crafter subagent on outputs/outline.md
+Use the scene-weaver subagent on outputs/outline.md + outputs/characters.md
+Use the chief-editor subagent on outputs/draft.md (reference outline + characters)
 ```
 
 See [`orchestration.md`](orchestration.md) for the full sequential flow, question routing rules, and re-run logic.
@@ -54,7 +51,7 @@ See [`orchestration.md`](orchestration.md) for the full sequential flow, questio
 
 | Stage | Who can ask the user? | Who do agents ask instead? |
 |-------|-----------------------|---------------------------|
-| Pre-work (before outline starts) | `plot_architect` only | — |
+| Pre-work (before outline starts) | `plot-architect` only | — |
 | During pipeline | Nobody | A specific agent by role |
 
 Inter-agent question format is defined in each agent's spec file.

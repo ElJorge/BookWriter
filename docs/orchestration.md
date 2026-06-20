@@ -12,26 +12,26 @@ User prompt (5–100 words)
         │
         ▼
 ┌─────────────────────┐
-│   plot_architect    │  ── outputs/outline.md
-│   task_outline      │
+│   plot-architect    │  ── outputs/outline.md
+│   (outline)         │
 └─────────────────────┘
         │
         ▼
 ┌─────────────────────┐
-│  character_crafter  │  ── outputs/characters.md
-│  task_character_pass│
+│  character-crafter  │  ── outputs/characters.md
+│  (character pass)   │
 └─────────────────────┘
         │ (receives outline.md + characters.md)
         ▼
 ┌─────────────────────┐
-│    scene_weaver     │  ── outputs/draft.md
-│  task_draft_chapter │
+│    scene-weaver     │  ── outputs/draft.md
+│  (draft chapter)    │
 └─────────────────────┘
         │ (receives draft.md; references outline.md + characters.md)
         ▼
 ┌─────────────────────┐
-│    chief_editor     │  ── outputs/chapter_1_final.md  ← terminal output
-│  task_edit_chapter  │
+│    chief-editor     │  ── outputs/chapter_1_final.md  ← terminal output
+│  (edit chapter)     │
 └─────────────────────┘
 ```
 
@@ -39,34 +39,36 @@ User prompt (5–100 words)
 
 ## Agents
 
-| ID | Role | Spec |
-|----|------|------|
-| `plot_architect` | Senior Plot Architect | [`agents/plot_architect.md`](agents/plot_architect.md) |
-| `character_crafter` | Character & Dialogue Specialist | [`agents/character_crafter.md`](agents/character_crafter.md) |
-| `scene_weaver` | Creative Storyteller & Prose Weaver | [`agents/scene_weaver.md`](agents/scene_weaver.md) |
-| `chief_editor` | Line and Executive Editor | [`agents/chief_editor.md`](agents/chief_editor.md) |
+Each agent is a Claude Code subagent under `.claude/agents/`. Invoke by `name`.
+
+| `name` | Role | Spec |
+|--------|------|------|
+| `plot-architect` | Senior Plot Architect | [`../.claude/agents/plot-architect.md`](../.claude/agents/plot-architect.md) |
+| `character-crafter` | Character & Dialogue Specialist | [`../.claude/agents/character-crafter.md`](../.claude/agents/character-crafter.md) |
+| `scene-weaver` | Creative Storyteller & Prose Weaver | [`../.claude/agents/scene-weaver.md`](../.claude/agents/scene-weaver.md) |
+| `chief-editor` | Line and Executive Editor | [`../.claude/agents/chief-editor.md`](../.claude/agents/chief-editor.md) |
 
 ---
 
 ## Tasks
 
-| Order | Task ID | Agent | Input | Output file |
-|-------|---------|-------|-------|-------------|
-| 1 | `task_outline` | `plot_architect` | `{book_prompt}` | `outputs/outline.md` |
-| 2 | `task_character_pass` | `character_crafter` | `outline.md` | `outputs/characters.md` |
-| 3 | `task_draft_chapter` | `scene_weaver` | `outline.md` + `characters.md` | `outputs/draft.md` |
-| 4 | `task_edit_chapter` | `chief_editor` | `draft.md` (+ reference files) | `outputs/chapter_1_final.md` |
+Each task spec is embedded in its agent's file (see the `## Task:` section there).
 
-Full task specs: [`tasks/`](tasks/)
+| Order | Task | Agent | Input | Output file |
+|-------|------|-------|-------|-------------|
+| 1 | Outline Chapter 1 | `plot-architect` | `{book_prompt}` | `outputs/outline.md` |
+| 2 | Character & Dialogue Pass | `character-crafter` | `outline.md` | `outputs/characters.md` |
+| 3 | Draft Chapter 1 | `scene-weaver` | `outline.md` + `characters.md` | `outputs/draft.md` |
+| 4 | Edit Chapter 1 | `chief-editor` | `draft.md` (+ reference files) | `outputs/chapter_1_final.md` |
 
 ---
 
 ## Question Protocol
 
 ### Pre-Work (before any task begins)
-- Only `plot_architect` may ask the user a question at this stage.
+- Only `plot-architect` may ask the user a question at this stage.
 - All other agents receive their questions via inter-agent routing.
-- Once `plot_architect` has begun producing the outline, the pre-work window is **closed**.
+- Once `plot-architect` has begun producing the outline, the pre-work window is **closed**.
 
 ### During Work (after pipeline starts)
 - **No agent may ask the user directly.**
@@ -78,12 +80,12 @@ Full task specs: [`tasks/`](tasks/)
 
 | If the question is about… | Route to |
 |---------------------------|----------|
-| Original prompt intent, genre, tone | `plot_architect` |
-| Story structure, beat order, timeline | `plot_architect` |
-| Character psychology, motivation | `character_crafter` |
-| Character voice, dialogue direction | `character_crafter` |
-| Prose intent, scene meaning | `scene_weaver` |
-| Editorial changes, what was cut and why | `chief_editor` |
+| Original prompt intent, genre, tone | `plot-architect` |
+| Story structure, beat order, timeline | `plot-architect` |
+| Character psychology, motivation | `character-crafter` |
+| Character voice, dialogue direction | `character-crafter` |
+| Prose intent, scene meaning | `scene-weaver` |
+| Editorial changes, what was cut and why | `chief-editor` |
 
 ---
 
@@ -91,27 +93,27 @@ Full task specs: [`tasks/`](tasks/)
 
 | File | Produced by | Purpose |
 |------|-------------|---------|
-| `outputs/outline.md` | `plot_architect` | Structured beat-by-beat chapter outline |
-| `outputs/characters.md` | `character_crafter` | Psychological annotations per character per beat |
-| `outputs/draft.md` | `scene_weaver` | Raw first draft, min. 1,500 words |
-| `outputs/chapter_1_final.md` | `chief_editor` | Polished, publication-ready chapter ← **final deliverable** |
+| `outputs/outline.md` | `plot-architect` | Structured beat-by-beat chapter outline |
+| `outputs/characters.md` | `character-crafter` | Psychological annotations per character per beat |
+| `outputs/draft.md` | `scene-weaver` | Raw first draft, min. 1,500 words |
+| `outputs/chapter_1_final.md` | `chief-editor` | Polished, publication-ready chapter ← **final deliverable** |
 
 ---
 
 ## Kickoff Instructions
 
 1. Collect `{book_prompt}` from the user (5–100 words).
-2. Pass it to `plot_architect` with the full contents of [`tasks/task_outline.md`](tasks/task_outline.md) and [`agents/plot_architect.md`](agents/plot_architect.md) as system context.
-3. If `plot_architect` raises a pre-work question, surface it to the user and wait for a response before continuing.
-4. On each subsequent step, pass the relevant agent spec + task spec + all upstream output files as context.
-5. After `chief_editor` completes, surface `outputs/chapter_1_final.md` to the user along with any `[EDITOR FLAG]` blocks that require human decision.
+2. Invoke the `plot-architect` subagent with the prompt. Its system prompt and task spec live in [`../.claude/agents/plot-architect.md`](../.claude/agents/plot-architect.md).
+3. If `plot-architect` raises a pre-work question, surface it to the user and wait for a response before continuing.
+4. On each subsequent step, invoke the next subagent with all upstream output files as context.
+5. After `chief-editor` completes, surface `outputs/chapter_1_final.md` to the user along with any `[EDITOR FLAG]` blocks that require human decision.
 
 ---
 
 ## Re-Run / Revision Routing
 
 If the final output contains `[EDITOR FLAG]` blocks:
-- Flags directed at `plot_architect` → re-run from Task 1 with flag context appended to the prompt
-- Flags directed at `character_crafter` → re-run from Task 2 with flag context
-- Flags directed at `scene_weaver` → re-run from Task 3 with flag context
-- Flags directed at `chief_editor` (self-flags) → re-run Task 4 only
+- Flags directed at `plot-architect` → re-run from Task 1 with flag context appended to the prompt
+- Flags directed at `character-crafter` → re-run from Task 2 with flag context
+- Flags directed at `scene-weaver` → re-run from Task 3 with flag context
+- Flags directed at `chief-editor` (self-flags) → re-run Task 4 only
