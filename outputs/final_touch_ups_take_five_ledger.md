@@ -23,7 +23,7 @@ Fifth-pass per-chapter result. All invariants verified TRUE every chapter; take-
 | 16 | The Chain for the Chainless | Donna | ✅ clean |
 | 17 | The Woman Who Audited the Apocalypse | Rhea | ✅ clean |
 | 18 | The Blackout Crucible | Russ | ✅ clean (N3 held: "into a space") |
-| 19 | The Hand with No Person | Devang | 🟡 **"refused for days" → recommend "for hours"** (contradicts in-chapter "two hours"); "handshake/by hand" = KEEP |
+| 19 | The Hand with No Person | Devang | ✅ FIXED — "refused for days" → "for hours"; "handshake/by hand" = KEEP |
 | 20 | The Archivist Out-Archived | Marco | ✅ clean |
 | 21 | The Weld Holds at Room Temperature | Theo | ✅ clean |
 | 22 | Share the Exposure | Rhea | ✅ clean |
@@ -35,7 +35,7 @@ Fifth-pass per-chapter result. All invariants verified TRUE every chapter; take-
 
 ## Roll-up
 - **No new defects** found by any reader. No typos / doubled words / markdown breaks / continuity contradictions.
-- **One recommended fix:** Ch19 "for days" → "for hours" (minor timeline consistency).
+- **One fix applied:** Ch19 "for days" → "for hours" (minor timeline consistency). ✅
 - **Optional-polish list closed:** all other items resolved as **KEEP** (deliberate motifs/devices).
 - **Verified held:** T4-1, T4-2, N1, N3, N5; all earlier fixes; compiled-vs-source integrity; the three finale payoffs.
-- **Verdict:** the book is shippable; the Ch19 one-word change is the only outstanding item.
+- **Verdict:** the book is shippable; no outstanding items.

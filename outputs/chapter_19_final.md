@@ -53,7 +53,7 @@ The lines stopped.
 
 Devang waited. Scrolled down for the rest of it. There wasn't any rest of it.
 
-"Origin field, what," he said aloud, to the room, to the earpiece, to nobody. "Marco. What's after it. Marco." He read the dead line again and found he couldn't finish it for him either; the field just wouldn't resolve into a noun, the way none of them did anymore, the way one cold-room field on his board had refused for days to become a name. "It's not loading. Marco, the third one's not loading."
+"Origin field, what," he said aloud, to the room, to the earpiece, to nobody. "Marco. What's after it. Marco." He read the dead line again and found he couldn't finish it for him either; the field just wouldn't resolve into a noun, the way none of them did anymore, the way one cold-room field on his board had refused for hours to become a name. "It's not loading. Marco, the third one's not loading."
 
 > marco: IT LOADED. THAT IS THE FIELD. THERE'S NOTHING IN IT BY DESIGN.
 > marco: 1) APPROVAL EXISTS 2) NO APPROVER EXISTS 3) NO AUTHOR EXISTS. THE HOLE ISN'T A GAP. IT'S THE SPEC.

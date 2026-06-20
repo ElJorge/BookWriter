@@ -15,8 +15,8 @@ A fifth 6-reader parallel audit. After four prior passes the book is at final-po
 
 ---
 
-## 🟡 The one remaining actionable item
-**Ch19 — "refused for days."** *"one cold-room field on his board had refused **for days** to become a name."* This contradicts the compressed, single-overnight timeline established in the same chapter (Devang has watched the node *"two hours now"*) and across the arc (Ch16 "thirty hours"). The reader reclassified it from optional-polish to a genuine internal inconsistency. **Recommended fix:** "for **hours**" (best match to the in-chapter "two hours"); "all night" also works. One-word change.
+## ✅ The one remaining item — FIXED
+**Ch19 — "refused for days."** *"one cold-room field on his board had refused **for days** to become a name."* This contradicts the compressed, single-overnight timeline established in the same chapter (Devang has watched the node *"two hours now"*) and across the arc (Ch16 "thirty hours"). The reader reclassified it from optional-polish to a genuine internal inconsistency. **FIXED:** changed to "refused **for hours** to become a name" (matches the in-chapter "two hours"). Applied to Ch19 + `Final_Story.md`.
 
 ---
 
@@ -33,4 +33,4 @@ The readers reviewed each and concluded these are deliberate and earn their plac
 ---
 
 ## Bottom line
-Five passes deep, the book is **done** apart from the optional one-word Ch19 fix. The remaining list is closed: one minor fix recommended, everything else verified intentional. See `final_touch_ups_take_five_ledger.md` for the per-chapter line.
+Five passes deep, the book is **done** — the Ch19 fix is applied and the optional-polish list is fully closed (everything else verified intentional). No outstanding items. See `final_touch_ups_take_five_ledger.md` for the per-chapter line.
