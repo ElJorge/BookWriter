@@ -9,7 +9,7 @@ Fourth-pass per-chapter notes (verification + deep line/craft). All major invari
 | 2 | The Race to Simi Valley | roving | ✅ clean; "minutes" incantation correct; two-clocks = working-as-designed |
 | 3 | The Runbook | Cole+roving | ✅ clean; two-clocks clue intact |
 | 4 | One of You | roving | ✅ **N2 verified** ("minutes south") |
-| 5 | Mrs. Hayes | roving | ✅ **N4 verified** ("his own truck"); 🟡 **T4-1** "fellas not guys" vs Russ's "you guys"; 🟢 "closest thing… being kept" 4× (2 in Ch5) |
+| 5 | Mrs. Hayes | roving | ✅ **N4 verified** ("his own truck"); ~~T4-1 "fellas not guys"~~ ✅ FIXED → "opens with fellas"; 🟢 "closest thing… being kept" 4× (2 in Ch5) |
 | 6 | The Face & the Negotiation | Donna | ✅ clean |
 | 7 | The Man in the Van | Russ | ✅ clean ("Tuesday, over a brisket" past-day) |
 | 8 | The Hands That Moved | Donna | 🟢 verbatim "water covers a stone" simile (w/ Ch9) — vary Ch9 |

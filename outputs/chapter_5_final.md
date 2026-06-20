@@ -150,7 +150,7 @@ Four hundred miles of distance away, in the same minute, a message arrived in th
 And the thread, which an hour ago would have wept with relief, went cold instead, because the impersonation had taught them the unthinkable thing — that the one voice they trusted most was now the one voice they could not verify. Marco did the only thing Marco could do. He took the message and held it against ten years, the keep turned weapon, reading it the way Donna read the lie that moved her, the two best readers of Russ on earth performing the same act of forensic love a thousand miles apart without knowing it.
 
 > marco: WAIT. don't anyone answer. read it with me.
-> marco: He says "fellas," that's right, he always says fellas not guys. But the period. He drops his terminal period exactly once, on "best decade of my life boys," when it COST him something. This drops it cold. Mechanical. Like someone who studied him and didn't live him.
+> marco: He says "fellas," that's right, he always opens with fellas. But the period. He drops his terminal period exactly once, on "best decade of my life boys," when it COST him something. This drops it cold. Mechanical. Like someone who studied him and didn't live him.
 > marco: To verify him we need a secret that was never in the chain. Give me one thing about Russ that we never typed.
 > devang: anything in the chain is burned, marco. the watcher's read all of it. reno's burned. the quiznos guy is burned. brandon's burned.
 > theo: ask him what they said about my grief commercial

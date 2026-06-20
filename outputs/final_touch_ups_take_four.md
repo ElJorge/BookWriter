@@ -16,8 +16,8 @@ A fourth 6-reader parallel audit, after the take-three fixes. Goal: confirm the 
 
 ## 🟡 Genuinely new findings (recommend a look)
 
-### T4-1 — Ch5: the "fellas not guys" authentication beat vs. Russ's own "you guys" (MED)
-Ch5 (Marco, authenticating the impostor): *"He says 'fellas,' that's right, **he always says fellas not guys.**"* But Russ's genuine Ch1 message reads *"**you guys** were the best part."* Because this is a **forensic plot point** (Marco proving authorship by Russ's verbal habits), the absolute "not guys" is catchable — Russ demonstrably used "guys." It's *defensible* ("fellas" is his greeting; "you guys were the best part" uses "guys" as an object pronoun in an emotional line), but the wording invites the nitpick. **Suggested fix:** narrow Marco's claim to the greeting, e.g. *"he always opens with 'fellas'"* — keeps the tell airtight without the absolute "not guys." Your call.
+### T4-1 — ✅ FIXED — Ch5: "fellas not guys" narrowed to the greeting
+Was: Marco's authentication said Russ *"always says fellas not guys,"* which the absolute "not guys" made catchable against Russ's genuine Ch1 line *"you guys were the best part."* **Fixed:** Marco's line now reads *"he always **opens with** fellas"* — anchors the tell to Russ's greeting habit (which the impostor copied), so it no longer conflicts with "you guys." Applied to Ch5 + both compiled manuscripts (Ch5 is in the 1-14 excerpt). The forensic beat (impostor nails "fellas" but botches the dropped-period tell) is intact.
 
 ### T4-2 — ✅ FIXED — Ch11: Marco given a burner number
 Was: only B1/B2/B5/B6 assigned, Marco (live on the bridge) unnumbered. **Fixed:** roster now reads *"B1 is me, B2 is Donna, **B3 is Marco**, the van is B5 and B6 — Cole, you're 5, Theo, 6"* — so B1 Devang / B2 Donna / B3 Marco / B5 Cole / B6 Theo, with the remaining burners the "primary and failover" spares the line already references. Applied to Ch11 + `Final_Story.md` (Ch11 isn't in the 1-14 excerpt).
