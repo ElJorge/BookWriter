@@ -1,7 +1,5 @@
 # Chapter 25 — What the Word Does
 
-[POLISHED PROSE BEGINS HERE]
-
 His hand was still flat on the door he'd opened, the cold of it coming up through his palm like water finding a crack, and somewhere under that cold the buckle had him by the throat.
 
 *These aren't units. These aren't entries. These are —*

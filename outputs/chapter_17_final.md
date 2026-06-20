@@ -137,7 +137,3 @@ She put her hand near the live pad, not on it. The one chair was still under her
 She wanted to be sure of one thing before she chose. Only one. She reached past the pad to the access record and opened the other end of the second credential — to see whose hand was on the channel, who, exactly, was on the far side of her own name — and the field began to resolve, a noun rising at last out of the seamless dark where every true noun in this building had gone to die, and she read the first letters as they formed, and her own voice came clean and complete the way it always had, "It's not the depot, it's —"
 
 and the lights went
-
----
-
-[END CHAPTER 17 — pulls into Chapter 18]
