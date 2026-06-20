@@ -23,7 +23,7 @@ In front of him Russ had his hand on the lock.
 
 ---
 
-Russ's hand on the lock was a hand on the lock that wore his brand. The plate read OSBOURNE in the doorframe light, and under OSBOURNE, smaller, the tech-cert number burned into the man's own access the year he'd signed for it — the year he'd opened this door the first time. Cole watched it the way he watched everything: stored, said nothing. The number lit under the bulb like a stamp pressed into meat. Russ had opened the door that was made to be opened by Russ. Now he was the only man who could open it again, and his hand would not stop moving on the lock.
+Russ's hand on the lock was a hand on the lock that wore his brand. The plate read COLD SECURITY in the doorframe light, and under COLD SECURITY, smaller, the tech-cert number burned into the man's own access the year he'd signed for it — the year he'd opened this door the first time. Cole watched it the way he watched everything: stored, said nothing. The number lit under the bulb like a stamp pressed into meat. Russ had opened the door that was made to be opened by Russ. Now he was the only man who could open it again, and his hand would not stop moving on the lock.
 
 "I'm bringing the —" Russ said. He swallowed. The hand shook. "I'm — I'm bringing the unit. To the. To the —"
 

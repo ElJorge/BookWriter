@@ -177,7 +177,7 @@ marco is already scrolling, all three screens going at once, years deep, every r
 
 2. it's a SCHEDULE.
 
-— *cold-storage retrofit, server-cooling, the osbourne contract, low and slow, marco, these server farms run hot* —
+— *cold-storage retrofit, server-cooling, the cold security contract, low and slow, marco, these server farms run hot* —
 
 3. russ isn't OWED. russ is a KEY.
 
@@ -205,11 +205,11 @@ and then, having spent the one warm thing he had, Devang goes quiet.
 
 —
 
-> russ: it's the cold room on Osb—
+> russ: it's the cold room at Cold Sec—
 
 the dots stop.
 
-the word stops. mid-reach. not a dropped call this time, not Russ's breath choosing — the wire itself eats it, the message *delivers* truncated, Osb— and then nothing, the hand pulled out of yours at the second knuckle, inside the one room they thought was theirs.
+the word stops. mid-reach. not a dropped call this time, not Russ's breath choosing — the wire itself eats it, the message *delivers* truncated, Cold Sec— and then nothing, the hand pulled out of yours at the second knuckle, inside the one room they thought was theirs.
 
 the typing indicator does not die. it passes. it goes clean.
 

@@ -8,7 +8,7 @@ The cold-room wall behind her exhaled its compressor cycle, a long mechanical br
 
 She liked it this way.
 
-She logged a Schedule II count, initialed the variance sheet, sipped the coffee at its one spot, set it back at its one spot. The fluorescents hummed a flat A above her. Somewhere out on Osbourne a truck downshifted and was gone.
+She logged a Schedule II count, initialed the variance sheet, sipped the coffee at its one spot, set it back at its one spot. The fluorescents hummed a flat A above her. Somewhere out on the access road a truck downshifted and was gone.
 
 Then the buzzer went off, and the kingdom developed a border.
 

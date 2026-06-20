@@ -128,7 +128,7 @@ The engine answered the way the engine always answered — courteously, friction
 
 Marco's list added the constraint as a line item, because of course it did, the packing list for a person now including a person:
 
-> CONDITION: DELIVER IN PERSON. SITE: OSBOURNE ST., SYLMAR. WINDOW: MAINTENANCE DARK.
+> CONDITION: DELIVER IN PERSON. SITE: COLD SECURITY, SYLMAR. WINDOW: MAINTENANCE DARK.
 
 She restated it to herself, accurately, completely, no softening, because softening was a thing she did not know how to do. *In person. The live site. Inside the window. One hand carries it through the door.* The held feeling did not vanish. It got pierced. She ran the arithmetic again and this time it came out wrong: the exposure could be spread sub-lethal across many, but the carry could not be subdivided. There was no dose-division for a door. The thing she had just learned — *you don't have to be alone* — collided with the thing the engine demanded, which was that someone did. One hand. One threshold. The completeness that made the record unforgeable had also fixed, exactly, the single place it had to enter, and the room it had to enter was the room that was full and then wasn't.
 

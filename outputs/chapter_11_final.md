@@ -50,19 +50,19 @@ Nobody laughed, because twenty minutes had just become a countdown, and everyone
 
 Devang stopped.
 
-"Russ's last text." Her voice didn't rise; it lowered the room. He could hear, under it, the specific quiet of a motel — the hum of a bolted-down AC, a baby's breathing, a phone she kept face-down so it couldn't look at her. "*The cold room on Osb—*. You all read the place. I read the grammar." A beat. "He ate the word the same way he eats words when a job's already running. The window's the message. Not the room. We're not late to a location. We're late to a *clock*."
+"Russ's last text." Her voice didn't rise; it lowered the room. He could hear, under it, the specific quiet of a motel — the hum of a bolted-down AC, a baby's breathing, a phone she kept face-down so it couldn't look at her. "*The cold room at Cold Sec—*. You all read the place. I read the grammar." A beat. "He ate the word the same way he eats words when a job's already running. The window's the message. Not the room. We're not late to a location. We're late to a *clock*."
 
 He wanted, absurdly, to be the one who'd seen it. He had instrumentation; he had the whole topology lit up in front of him; and the woman with her phone face-down had out-read his entire stack with a thing he could only call — and here the tic stalled again, his mouth reaching for *out-of-band heuristics* and finding nothing system-shaped that fit, because the true name of it was *she just knows him*, and that whole human apparatus died on the gate.
 
 "On it," he said instead. "Reading the schedule."
 
-"Eyes to Osbourne," Donna said. "Van confirms the site. Remote reads the window. Move."
+"Eyes to Cold Security," Donna said. "Van confirms the site. Remote reads the window. Move."
 
 And the acronyms came back online the second she handed him a task, the body-leak receding, the engineer reassembling around a thing he could build.
 
 —
 
-In the van off Osbourne the building did not look like anything.
+In the van outside Cold Security the building did not look like anything.
 
 That was Cole's first read, relayed in the burner's three-word economy: *low. gray. windowless.* And then the thing that wasn't nothing — the chiller plant on the roof, a steel array squatting over the footprint, far too much steel, cooling capacity for a structure three times the size. *too much cooling,* Cole pinged. Theo, beside him, was rehearsing.
 
