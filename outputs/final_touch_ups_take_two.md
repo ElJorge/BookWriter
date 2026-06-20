@@ -38,13 +38,14 @@ The six readers re-checked every prior fix in the actual prose:
 
 ---
 
-## 🟡 Still open (carried from take-one — you haven't asked me to fix these yet)
-- **M1 — 4 fictive-frame / device-naming winks in Ch3–5** (the early, pre-discipline chapters), all re-confirmed still present:
-  - Ch3: *"the first voice from this side of the country **in three chapters**"*
-  - Ch4: *"the thin sound **the prose could hear**"*
-  - Ch4: *"Cole understood it **a half-beat after the reader did**"*
-  - Ch4 (near its end): *"the only thing **in the book** actually looking at the thing"*
-  - Quick scrubs whenever you want them (suggested rewrites in `final_touch_ups.md` M1).
+## ✅ M1 — RESOLVED (fixed everywhere except `Final_Story_Chapter_1_to_14.md`, per request)
+The 4 documented fictive-frame winks — plus **2 more chapter-counting winks the audits had missed** (both Ch4) — were scrubbed to in-world phrasing in `chapter_3_final.md`, `chapter_4_final.md`, and `Final_Story.md`. (Left intact in `Final_Story_Chapter_1_to_14.md` by request.)
+- Ch3: "…in three chapters" → "…in hours"
+- Ch4: "after two chapters of standing on a curb" → "after all that standing on a curb"  *(newly found)*
+- Ch4: "off two chapters of stuck" → "off the long stretch of stuck"  *(newly found)*
+- Ch4: "the thin sound **the prose could hear**" → "the thin sound that was there to be heard"
+- Ch4: "Cole understood it a half-beat **after the reader did**" → "…a half-beat too late"
+- Ch4: "the only thing **in the book** actually looking at the thing" → "…in the room actually looking…"
 
 ## 🟢 Minor — confirm-intent (likely all intentional; nothing broken)
 - **Ch10** *"the cold room at Cold Sec—"* — "cold…Cold" proximity reads slightly doubled; defensible (the chilling corporate name). Optional: *"the cold room — Cold Sec—"*.

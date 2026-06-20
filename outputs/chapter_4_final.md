@@ -21,7 +21,7 @@ Two thousand five hundred miles east and four hundred north and forty-five impos
 > marco: Confirmed. Welfare unit on scene at the Camino Verde address. 1. Eyes. 2. A human being inside the building. 3. This is the turn. This is where it turns.
 > devang: status: green. holding green. first clean green in two hours and i'm logging the timestamp because i want to remember it
 
-They typed it into a thread that had a stranger in it and did not know — the location in plain text, the plan in plain text, the address Marco had bled a decade of Christmas cards to find now sitting in the thread like a pin in a map anyone could read. Theo was already gone from the conversation in the way that mattered, because Theo was finally, after two chapters of standing on a curb, in motion.
+They typed it into a thread that had a stranger in it and did not know — the location in plain text, the plan in plain text, the address Marco had bled a decade of Christmas cards to find now sitting in the thread like a pin in a map anyone could read. Theo was already gone from the conversation in the way that mattered, because Theo was finally, after all that standing on a curb, in motion.
 
 He was in the back of a Camry that smelled of a cardboard pine tree, in the carpool lane up the 405, and the worst hour of his life was costing him three point one times the base fare.
 
@@ -41,7 +41,7 @@ He didn't finish it. He looked out the window at the freeway going by in long br
 
 > marco: You're going to do the thing the rest of us can't. 1. You get there. 2. You're a body. 3. A body is everything. I'm tracking your dot AND Cole's. Two dots now. Stand by — I'm walking to my car. Lists travel.
 
-The keeper, off the train, off the platform, off two chapters of stuck — moving at last, numbering as he went, pouring the good news into the thread like a man who had finally been handed something good to keep. And not one of the three of them could hear, under their own loud relief, the thin sound the prose could hear: that every word was landing in a room with a fifth set of eyes, and a joke is loud, and a joke travels, and a joke leaves a trace.
+The keeper, off the train, off the platform, off the long stretch of stuck — moving at last, numbering as he went, pouring the good news into the thread like a man who had finally been handed something good to keep. And not one of the three of them could hear, under their own loud relief, the thin sound that was there to be heard: that every word was landing in a room with a fifth set of eyes, and a joke is loud, and a joke travels, and a joke leaves a trace.
 
 ---
 
@@ -123,7 +123,7 @@ Cole followed the beam. The chair at the end of the table — not tucked, not pu
 
 "Somebody had company," the deputy said, and moved his beam on, because to him it was a fact and not a body, and the fact meaning nothing to him was exactly what made it undeniable.
 
-And Cole understood it a half-beat after the reader did, the way he'd understood the runbook — the second clock finally ticking into place beside the first. Warm coffee, cool truck, two clocks that would never agree. Russ wasn't the last one here. Someone patient was. Someone had sat in this kitchen, calm, recently, *after* the page said the plan was already moving — which meant the plan had not moved the way Russ thought, which meant the danger had not been an idea or a wall of money four hundred miles away in a county filing. It had been a body. It had sat in this chair. It had angled itself toward the door and waited for a man who ran from being a burden, and it was patient, and it was close, and the red light still turning on the wall meant it now knew the house had been found.
+And Cole understood it a half-beat too late, the way he'd understood the runbook — the second clock finally ticking into place beside the first. Warm coffee, cool truck, two clocks that would never agree. Russ wasn't the last one here. Someone patient was. Someone had sat in this kitchen, calm, recently, *after* the page said the plan was already moving — which meant the plan had not moved the way Russ thought, which meant the danger had not been an idea or a wall of money four hundred miles away in a county filing. It had been a body. It had sat in this chair. It had angled itself toward the door and waited for a man who ran from being a burden, and it was patient, and it was close, and the red light still turning on the wall meant it now knew the house had been found.
 
 ---
 
@@ -152,7 +152,7 @@ And it cut.
 
 Mid-word. Mid-breath. On the syllable that would have been a name — *it's* — and then nothing, the cursor of it pulsing after the word into a white that gave nothing back, the warmth gone, the 👍🏼 gone, the *fellas* gone, *low and slow* tried and broken in his own mouth like a man telling himself the thing he could no longer do. The have-it-handled man, for the first time in three days and ten years, reaching for the wheel a beat too late and feeling it come off in his hand. The answer arriving in the act of being given and stolen on the word that would have aimed them — not a dropped screen, not a cut DM, not a voice cut on *told,* but the steerer himself losing the steer mid-correction, the silhouette of a warning and not its name.
 
-Donna stared at the white under the broken line, and the ice machine dropped another load into the dark, and forty miles south a dot was crossing into Simi, and in a kitchen the red light kept turning over a chair pulled out toward the door, and she understood, in the slow lethal clarity that was the only thing in the book actually looking at the thing, that the danger had not been outside the people answering their phones. It had been inside them the whole time. It had come through the one window they all sat at, warm, for ten years.
+Donna stared at the white under the broken line, and the ice machine dropped another load into the dark, and forty miles south a dot was crossing into Simi, and in a kitchen the red light kept turning over a chair pulled out toward the door, and she understood, in the slow lethal clarity that was the only thing in the room actually looking at the thing, that the danger had not been outside the people answering their phones. It had been inside them the whole time. It had come through the one window they all sat at, warm, for ten years.
 
 She did the thing she had done for twenty-five years. She took the lethal clarity and compressed it down into a sentence small enough to say, small enough for a man who had to have it handled, and she lifted the phone, and her thumb hovered over a number, and the voice she put on was the clipped one, the legible one, the one that was already too late and would not stop her using it.
 

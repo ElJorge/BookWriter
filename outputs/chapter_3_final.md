@@ -107,7 +107,7 @@ The thought arrived and his overloaded mind could not catch it; it went past him
 
 A car door, somewhere off-page, on a street none of them could see. The cops Russ's page had begged him not to call, pulling up to a house with a runbook on the table that said *no cops* in a dead man's living hand, and the three blind men a thousand miles out cheering the cavalry over the cliff.
 
-The phone clicked. A breath on the line. Alive — a person, alive, breathing — and then a voice, plain and frightened and nothing at all like the Chain, the first voice from this side of the country in three chapters, no joke in it and no jargon and no stretched vowel, only a real woman bracing for the worst news of her life.
+The phone clicked. A breath on the line. Alive — a person, alive, breathing — and then a voice, plain and frightened and nothing at all like the Chain, the first voice from this side of the country in hours, no joke in it and no jargon and no stretched vowel, only a real woman bracing for the worst news of her life.
 
 "Hello?"
 
