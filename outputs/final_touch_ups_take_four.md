@@ -19,8 +19,12 @@ A fourth 6-reader parallel audit, after the take-three fixes. Goal: confirm the 
 ### T4-1 — Ch5: the "fellas not guys" authentication beat vs. Russ's own "you guys" (MED)
 Ch5 (Marco, authenticating the impostor): *"He says 'fellas,' that's right, **he always says fellas not guys.**"* But Russ's genuine Ch1 message reads *"**you guys** were the best part."* Because this is a **forensic plot point** (Marco proving authorship by Russ's verbal habits), the absolute "not guys" is catchable — Russ demonstrably used "guys." It's *defensible* ("fellas" is his greeting; "you guys were the best part" uses "guys" as an object pronoun in an emotional line), but the wording invites the nitpick. **Suggested fix:** narrow Marco's claim to the greeting, e.g. *"he always opens with 'fellas'"* — keeps the tell airtight without the absolute "not guys." Your call.
 
-### T4-2 — Ch11: burner count / Marco unnumbered (LOW-MED)
+### T4-2 — ✅ FIXED — Ch11: Marco given a burner number
+Was: only B1/B2/B5/B6 assigned, Marco (live on the bridge) unnumbered. **Fixed:** roster now reads *"B1 is me, B2 is Donna, **B3 is Marco**, the van is B5 and B6 — Cole, you're 5, Theo, 6"* — so B1 Devang / B2 Donna / B3 Marco / B5 Cole / B6 Theo, with the remaining burners the "primary and failover" spares the line already references. Applied to Ch11 + `Final_Story.md` (Ch11 isn't in the 1-14 excerpt).
+
+<details><summary>(original finding)</summary>
 Ch11: *"**Nine of them**, in a row… B1, B2, B3 —"* then the roster: *"B1 is me [Devang], B2 is Donna… B5 and B6 — Cole, you're 5, Theo, 6."* So only **B1/B2/B5/B6** are assigned; **B3/B4 unexplained**, and **Marco** — live on the bridge — gets no burner number. "Nine" is partly covered by *"primary and failover"* (redundant spares) and Marco may be on his own rig rather than a burner, so it's not a hard error — but the gap is noticeable. **Options:** (a) give Marco a number ("B3 is Marco"); (b) add a half-clause that the extras are failover spares; (c) leave it (failover framing already implies it). Your call.
+</details>
 
 ---
 

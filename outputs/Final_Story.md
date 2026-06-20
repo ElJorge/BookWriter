@@ -1687,7 +1687,7 @@ Nine of them, in a row on the desk, $19 prepaids still warm from their blister p
 
 He keyed the bridge and brought them up live.
 
-"Okay. Out-of-band protocol. Nobody types the real names. B1 is me, B2 is Donna, the van is B5 and B6 — Cole, you're 5, Theo, 6 —"
+"Okay. Out-of-band protocol. Nobody types the real names. B1 is me, B2 is Donna, B3 is Marco, the van is B5 and B6 — Cole, you're 5, Theo, 6 —"
 
 "Wait, which one's mine," Theo said. Plastic clattered against plastic, the sound of a man holding too many phones. "I've got — okay I've got a blue one and a black one, is the blue one —"
 

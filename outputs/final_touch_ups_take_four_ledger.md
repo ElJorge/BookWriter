@@ -15,7 +15,7 @@ Fourth-pass per-chapter notes (verification + deep line/craft). All major invari
 | 8 | The Hands That Moved | Donna | 🟢 verbatim "water covers a stone" simile (w/ Ch9) — vary Ch9 |
 | 9 | The Hunt Both Ways | Cole | 🟢 verbatim simile (w/ Ch8); 🟢 "man with his hands in his coat pockets" near-repeat; smuggle echo = keep |
 | 10 | The Listener in the Chain | Marco | ✅ clean ("3:418" intentional; "Oct 9 2001"; "cold security contract") |
-| 11 | No API for a Man in a Parking Lot | Devang | 🟡 **T4-2** burner count: "Nine" / B1,B2,B5,B6 only / Marco unnumbered |
+| 11 | No API for a Man in a Parking Lot | Devang | ~~T4-2 burner count~~ ✅ FIXED — Marco assigned B3 |
 | 12 | The Moral Vise | Russ | ✅ clean ("to f—/to fix" deliberate; bare-article ending intentional) |
 | 13 | The Third Move | Donna | 🟢 "laid… laid the burners" two sentences apart (vary one); "4)" device intentional |
 | 14 | The Keystone | Theo | ✅ clean (plural upgrade in-dialogue; structural self-name stays cut; "finish the job" allowed) |
@@ -34,7 +34,7 @@ Fourth-pass per-chapter notes (verification + deep line/craft). All major invari
 | 27 | The Count | Donna | ✅ clean; ends WHOLE; "nine of us" roster reconciles (5 core + Rhea + 2 surplus + Donna) |
 
 ## Roll-up
-- **Recommend-look (🟡):** **T4-1** Ch5 "fellas not guys" forensic tension; **T4-2** Ch11 burner count / Marco unnumbered. (Both small; both defensible; fixes are 1-line.)
+- **Recommend-look (🟡):** **T4-1** Ch5 "fellas not guys" forensic tension; ~~T4-2 Ch11 burner count~~ ✅ FIXED (Marco = B3). (T4-1 still open: small forensic tighten, your call.)
 - **Optional polish (🟢):** Ch8/9 verbatim simile (vary Ch9); Ch19 "for days"→"all night"; Ch5 "being kept" 4×; Ch9 "coat pockets" repeat; Ch19 hand/handshake echo; Ch13 "laid…laid"; Ch25/26 "water finding" cluster.
 - **Verified held:** take-three N1–N5; all earlier fixes; compiled-vs-source integrity; the three finale payoffs.
 - **No HIGH or structural issues. No new canon/device breaks. No typos/markdown breaks found.** The book reads as shippable; the 🟡/🟢 items are fine-grain polish, not blockers.
