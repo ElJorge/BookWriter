@@ -40,11 +40,14 @@ This is the single most important finding. The book's biggest structural payoff 
 
 → *Decision needed from you: fix the four chapters, or relax the canon? I'd fix the chapters.*
 
-### H2. Weekday contradiction: Ch1 says **Tuesday**, Ch2 (same continuous day) says **Saturday**
-- **Ch1:** *"It's 9 a.m. on a Tuesday Russ"* (and the "ten years ago today, 6/19" anchor reads as a Tuesday).
-- **Ch2:** *"it's a saturday and we're four deep at the rail"* and *"the white slap of a Saturday sidewalk"* (×3) — the same afternoon, continuous from Ch1.
+### H2. ✅ RESOLVED — Weekday unified to **Saturday**
+Was: Ch1 said "Tuesday," Ch2 (same continuous day) said "Saturday" ×3. Fixed by changing the story-day references in Ch1/Ch5 to Saturday (Ch2/3/8 already said Saturday):
+- **Ch1** *"It's 9 a.m. on a Tuesday Russ"* → *"…on a Saturday Russ"*
+- **Ch1** *"it is a tuesday i am unprepared"* → *"it is a saturday i am unprepared"*
+- **Ch5** *"the feeling he had been outrunning since Tuesday"* → *"…since that morning"* (day-agnostic; the events are one continuous day)
+- The "ten years ago today, 6/19" anchor never names a weekday, so it needs no change.
 
-**Fix:** pick one weekday and propagate. If Saturday is intended (it fits Theo's "four deep at the rail" bar-shift and the "grill saturday" thread callback in Ch7), change Ch1's "Tuesday" and reconcile the 6/19 anchor. If Tuesday, change Ch2's three Saturday references. Saturday looks like the better choice given the bar/grill texture.
+**Left intentionally unchanged** (not contradictions): Ch4 *"it's a tuesday"* (Devang's idiom for "routine/mundane," no day-claim) and Ch7 *"on a Tuesday, over a brisket"* (a distinct *past* day when Russ once typed "low and slow").
 
 ---
 
@@ -83,7 +86,7 @@ The Ch24 ("No.") and Ch27 (full close) inversions lean on the idea that *every* 
 
 ## Suggested order of operations
 1. **Decide H1** (Cole's early speech) — it's the only finding that touches a major payoff, and it's a clean ~4-chapter edit if you want it.
-2. **Fix H2** (weekday) and **M1** (four winks) — quick, unambiguous corrections.
+2. ~~**Fix H2** (weekday)~~ ✅ done. **M1** (four winks) — quick, unambiguous corrections.
 3. **Rule on M2/M3/M4** (deliberate variant vs. tighten).
 4. **Before compiling/exporting:** do **L1** (strip metadata) and decide **L3** (titles).
 5. The rest (L2, L4–L8) are confirm-intent items — most are probably already intentional.

@@ -5,7 +5,7 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 
 | Ch | POV | Ending (snippet) | Rhyme object | Cold-room noun | Cole | Membrane | Winks | Flags |
 |----|-----|------------------|--------------|----------------|------|----------|-------|-------|
-| 1 | roving/omni ✓ | **complete** — "It did not light." | phone light → dark screen | clean (n/a) | silent | clean | none in prose | 🟡 M4 (ends complete, not snatched); 🔴 H2 (says "Tuesday") |
+| 1 | roving/omni ✓ | **complete** — "It did not light." | phone light → dark screen | clean (n/a) | silent | clean | none in prose | 🟡 M4 (ends complete, not snatched); ~~H2 (said "Tuesday")~~ ✅ fixed → Saturday |
 | 2 | roving ✓ | complete image; snatch is mid-ch DM "call donna NOW —" | "Delivered" → cut-off DM | clean | silent (text only) | clean (911 call in quotes ✓) | none | 🔴 H2 ("a saturday" ×3 — contradicts Ch1); 🟡 M4 |
 | 3 | Cole-anchored ✓ | snatched — Donna's voice cut "on *told*" | unlocked door → cut voice | clean | **SPEAKS** | clean | "in three chapters" | 🔴 H1 (Cole speaks); 🟡 M1 (wink) |
 | 4 | roving + Donna ✓ | snatched — "it's—" | turning light | clean | **SPEAKS** | clean | "the prose could hear"; "after the reader did" | 🔴 H1; 🟡 M1 (×2) |
@@ -45,7 +45,7 @@ Compiled from a 6-reader parallel read-through of all 27 final chapters. Columns
 
 **Ending-signature exceptions:** Ch1 (complete sentence), Ch2 (snatch is mid-chapter, not final line), Ch11 (coda after the snatch). All other Ch3–23/26 end on the snatch; Ch24 inverts to a whole word; Ch27 closes complete (intended finale inversion).
 
-**Weekday contradiction:** Ch1 "Tuesday" vs Ch2 "Saturday" (same continuous day). 🔴
+**Weekday contradiction:** ~~Ch1 "Tuesday" vs Ch2 "Saturday"~~ ✅ RESOLVED — unified to Saturday (Ch1 ×2, Ch5 callback → "since that morning").
 
 **Membrane:** clean everywhere except the Ch21 final-line edge case (🟡 M3).
 

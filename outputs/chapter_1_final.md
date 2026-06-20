@@ -81,7 +81,7 @@ And then the fastest thumb in the thread, the one that always got there first, t
 That was how it went, every time. Whatever came into the thread sick or scared or stupid, Russ got there first and made it smaller. Cole's shoulders came down an inch on a tailgate four hundred miles south of a man he would not have called his father out loud, and somewhere in the middle of the warm morning Russ posted a photograph of a brisket the size of a car battery, dark and crusted and glistening, no caption, because the brisket did not require one.
 
 > theo: ok now THIS is too handsome for grief
-> marco: It's 9 a.m. on a Tuesday Russ.
+> marco: It's 9 a.m. on a Saturday Russ.
 > russ: low and slow waits for no man
 
 The morning unspooled into the long ordinary middle of itself, and the thread did its real and only job, which was to be there. The fantasy-league war reignited over a waiver claim nobody could justify. Theo revived a joke that had died in March — a thing about a man known only as "the Quiznos guy" — and the joke, against all odds, got up off the table and walked. Devang went quiet for ninety minutes inside a meeting and came back to forty-one messages and the words *left him on read for an HOUR, the disrespect* and took it like a man. Somebody typed *you up?* at 11 a.m. purely to be roasted, and was. Marco refereed all of it from his desk with the door cracked, ruling on disputes nobody had submitted —
@@ -97,7 +97,7 @@ It was Marco, of course, who scrolled up. He kept the history because keeping it
 The thread held its breath for a second. You could feel it hold, the way you can feel a room change without anyone moving.
 
 > theo: ok WHO authorized feelings in the chain 😭
-> theo: it is a tuesday i am unprepared
+> theo: it is a saturday i am unprepared
 > cole: 10 years
 > cole: i had hair
 > devang: you still have a normal amount of hair, the baby took the rest
