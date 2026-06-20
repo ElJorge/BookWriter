@@ -6,7 +6,7 @@ More than one. She wanted that noted, the way she wanted everything noted. Every
 
 She counted now. Cole's, low on the wheel, not moving until the others matched it. Theo's, hovering an inch off the steel like he was warming them at a fire that wasn't there. Two she didn't have names for yet. And Russ's, set high, knuckles white, the grip she had been watching since the corridor — the hand that had opened this exact kind of door before, when the opening was the harm.
 
-Six hands. Seven people who had climbed a long way up a stairwell that smelled of rust and cold solder to stand here and find out whether the number behind the steel was a number or a zero.
+Five hands. Six people who had climbed a long way up a stairwell that smelled of rust and cold solder to stand here and find out whether the number behind the steel was a number or a zero.
 
 "We should've brought the ram," Theo said. His voice came out thin, scraped down to the soft underside of it. "I had a whole plan. Big swing, lots of splinters, I look heroic—"
 

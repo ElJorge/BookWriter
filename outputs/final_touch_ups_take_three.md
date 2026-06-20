@@ -19,7 +19,8 @@ All six readers confirmed the major invariants hold across all 27 chapters:
 
 ---
 
-## 🟡 Genuine NEW findings (recommend fixing)
+## ✅ Genuine NEW findings — ALL FIXED (N1–N5)
+*Applied to the chapter files + both compiled manuscripts; verified clean. (Cole leaves in **his own** truck for N4; N5 set to "Five hands. Six people" to match the enumeration.)*
 
 ### N1 — Ch24: "TVA holds" — undefined stray acronym
 *"Then Devang, who never warmed, warm: **\"TVA holds. Chain holds. You've got it.\"**"* — "TVA" appears **exactly once in the whole book** and decodes to nothing; the engine/system is otherwise "the engine / the machine / the system / the reader." It reads as a stray. **Suggested fix:** replace with an established in-world referent, e.g., *"The spoof holds. Chain holds. You've got it."* or *"Window holds. Chain holds. You've got it."* (Confirm what Devang means it to be.)

@@ -545,7 +545,7 @@ The knock came again. "Door's open, folks. I'm gonna step in."
 
 ---
 
-Two thousand five hundred miles east and four hundred north and forty-five impossible miles south, three men were celebrating.
+Two thousand five hundred miles east and four hundred north and forty-five impossible minutes south, three men were celebrating.
 
 > theo: THE UNIT IS IN. it's happening
 > theo: cole a real cop with a real flashlight is about to walk in and FIND OUR BOY
@@ -762,7 +762,7 @@ Then he was gone, the screen door tapping shut behind him, and the red light sto
 
 He looked at the phone. The Chain was in there, lit and screaming, buzzing against his palm. He did not open it. He had arrived, alone and cold, at the same conclusion three men four hundred miles away were failing at loud and together: he could not put any of this in the box. Not the runbook. Not the second cup. Not the chair angled at the door. The page in his hand was a thing that could only be carried, by a body, to a person — and there was exactly one person on earth it was written for, and she was not standing here, and Russ had said *call donna NOW,* and the call had cut on *who told you,* and the only move Cole had left was the one he'd never been good at, which was to finish the hard thing.
 
-He got the keys. The truck wasn't his to take and he took it. And as he backed out of the driveway, down at the dead end of the street where the houses stopped agreeing with each other, a vehicle pulled away from the curb without lights and turned the far corner, unhurried, and was gone before Cole's mind could decide whether it had been a van.
+He got back behind the wheel of his own truck. And as he backed out of the driveway, down at the dead end of the street where the houses stopped agreeing with each other, a vehicle pulled away from the curb without lights and turned the far corner, unhurried, and was gone before Cole's mind could decide whether it had been a van.
 
 ---
 
@@ -2748,7 +2748,7 @@ Rhea. He tracked her by sound — only by sound, the inversion of his entire car
 
 "Fails open." She corrected the dark itself. "The shipment in there can be pulled the second the lock trips. So we want to be standing at it before that happens, not after."
 
-Behind her voice, past it, was the room — the one that breathed chilled air into a room with no light, the one that had been full of — that held rows of — that was the kind of room that was full and then —
+Behind her voice, past it, was the room — the one that breathed chilled air into a space with no light, the one that had been full of — that held rows of — that was the kind of room that was full and then —
 
 His eraser closed over the noun like water over a stone. *Units.* No. The article buckled and landed nowhere. He let it go.
 
@@ -3699,7 +3699,7 @@ The screen went still long enough to read without his hands, light steady on his
 > donna: cue when russ is in. not before.
 > marco: 4 NODES LIVE — COLUMN INTACT — DO NOT SET IT DOWN
 
-The earpiece had Theo in it, low, the way a tap runs when no one's turned it off. "Okay, so, we're good, we're — you're good, you don't have to do anything, you just stand there, that's the whole — sorry. Standing. You're great at it." A pause that cost Theo something. Then Devang, who never warmed, warm: "TVA holds. Chain holds. You've got it."
+The earpiece had Theo in it, low, the way a tap runs when no one's turned it off. "Okay, so, we're good, we're — you're good, you don't have to do anything, you just stand there, that's the whole — sorry. Standing. You're great at it." A pause that cost Theo something. Then Devang, who never warmed, warm: "The window holds. Chain holds. You've got it."
 
 Rhea's name sat in the readout where his eye could reach it, whole, every letter, never eaten. *RHEA* — clean as a nail driven flush.
 
@@ -3963,7 +3963,7 @@ More than one. She wanted that noted, the way she wanted everything noted. Every
 
 She counted now. Cole's, low on the wheel, not moving until the others matched it. Theo's, hovering an inch off the steel like he was warming them at a fire that wasn't there. Two she didn't have names for yet. And Russ's, set high, knuckles white, the grip she had been watching since the corridor — the hand that had opened this exact kind of door before, when the opening was the harm.
 
-Six hands. Seven people who had climbed a long way up a stairwell that smelled of rust and cold solder to stand here and find out whether the number behind the steel was a number or a zero.
+Five hands. Six people who had climbed a long way up a stairwell that smelled of rust and cold solder to stand here and find out whether the number behind the steel was a number or a zero.
 
 "We should've brought the ram," Theo said. His voice came out thin, scraped down to the soft underside of it. "I had a whole plan. Big swing, lots of splinters, I look heroic—"
 

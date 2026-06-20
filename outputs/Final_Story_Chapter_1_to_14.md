@@ -545,7 +545,7 @@ The knock came again. "Door's open, folks. I'm gonna step in."
 
 ---
 
-Two thousand five hundred miles east and four hundred north and forty-five impossible miles south, three men were celebrating.
+Two thousand five hundred miles east and four hundred north and forty-five impossible minutes south, three men were celebrating.
 
 > theo: THE UNIT IS IN. it's happening
 > theo: cole a real cop with a real flashlight is about to walk in and FIND OUR BOY
@@ -762,7 +762,7 @@ Then he was gone, the screen door tapping shut behind him, and the red light sto
 
 He looked at the phone. The Chain was in there, lit and screaming, buzzing against his palm. He did not open it. He had arrived, alone and cold, at the same conclusion three men four hundred miles away were failing at loud and together: he could not put any of this in the box. Not the runbook. Not the second cup. Not the chair angled at the door. The page in his hand was a thing that could only be carried, by a body, to a person — and there was exactly one person on earth it was written for, and she was not standing here, and Russ had said *call donna NOW,* and the call had cut on *who told you,* and the only move Cole had left was the one he'd never been good at, which was to finish the hard thing.
 
-He got the keys. The truck wasn't his to take and he took it. And as he backed out of the driveway, down at the dead end of the street where the houses stopped agreeing with each other, a vehicle pulled away from the curb without lights and turned the far corner, unhurried, and was gone before Cole's mind could decide whether it had been a van.
+He got back behind the wheel of his own truck. And as he backed out of the driveway, down at the dead end of the street where the houses stopped agreeing with each other, a vehicle pulled away from the curb without lights and turned the far corner, unhurried, and was gone before Cole's mind could decide whether it had been a van.
 
 ---
 

@@ -14,7 +14,7 @@ The knock came again. "Door's open, folks. I'm gonna step in."
 
 ---
 
-Two thousand five hundred miles east and four hundred north and forty-five impossible miles south, three men were celebrating.
+Two thousand five hundred miles east and four hundred north and forty-five impossible minutes south, three men were celebrating.
 
 > theo: THE UNIT IS IN. it's happening
 > theo: cole a real cop with a real flashlight is about to walk in and FIND OUR BOY

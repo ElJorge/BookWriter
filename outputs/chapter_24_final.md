@@ -13,7 +13,7 @@ The screen went still long enough to read without his hands, light steady on his
 > donna: cue when russ is in. not before.
 > marco: 4 NODES LIVE — COLUMN INTACT — DO NOT SET IT DOWN
 
-The earpiece had Theo in it, low, the way a tap runs when no one's turned it off. "Okay, so, we're good, we're — you're good, you don't have to do anything, you just stand there, that's the whole — sorry. Standing. You're great at it." A pause that cost Theo something. Then Devang, who never warmed, warm: "TVA holds. Chain holds. You've got it."
+The earpiece had Theo in it, low, the way a tap runs when no one's turned it off. "Okay, so, we're good, we're — you're good, you don't have to do anything, you just stand there, that's the whole — sorry. Standing. You're great at it." A pause that cost Theo something. Then Devang, who never warmed, warm: "The window holds. Chain holds. You've got it."
 
 Rhea's name sat in the readout where his eye could reach it, whole, every letter, never eaten. *RHEA* — clean as a nail driven flush.
 

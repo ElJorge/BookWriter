@@ -34,7 +34,7 @@ Third-pass per-chapter notes (prose/fine-detail focus). Invariants (weekday, Col
 | 27 | The Count | Donna | none — roster "nine of us" checks out (5 core + Rhea + 2 surplus + Donna); ends WHOLE |
 
 ## Roll-up
-- **Recommend-fix (🟡):** N1 TVA (Ch24), N2 miles→minutes (Ch4), N3 room/room stutter (Ch18), N4 two-truck wrinkle (Ch2/Ch5), N5 six-hands count (Ch26).
+- **Recommend-fix (🟡):** ✅ ALL FIXED — N1 TVA→"The window holds" (Ch24); N2 miles→minutes (Ch4); N3 room→space (Ch18); N4 Cole leaves in his own truck (Ch5); N5 "Five hands. Six people" (Ch26). Applied to chapter files + both compiled manuscripts.
 - **Minor/optional (🟢):** water-simile repeats (Ch8/9/25/26), "refused for days" (Ch19), two-clocks warmth (Ch2/3), smuggle echo (Ch8/9), Ch12 doubling, Ch21 metaphor, Ch23 manifest renumber.
 - **Confirmed intentional (✅), no action:** "dock" backstory (Ch16), "3:418" (Ch10), cold…Cold proximity (Ch10), 11-vs-12 years (Ch20), room-214-twice (Ch6), "since '04" (Ch10), "Friday" similes (Ch23), "finish the job" (Ch14).
 - **No HIGH-severity issues.** All canon/device invariants and the three finale payoffs hold. The 🟡 items are small prose/continuity nits, not structural breaks.

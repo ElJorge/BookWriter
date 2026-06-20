@@ -20,7 +20,7 @@ Rhea. He tracked her by sound — only by sound, the inversion of his entire car
 
 "Fails open." She corrected the dark itself. "The shipment in there can be pulled the second the lock trips. So we want to be standing at it before that happens, not after."
 
-Behind her voice, past it, was the room — the one that breathed chilled air into a room with no light, the one that had been full of — that held rows of — that was the kind of room that was full and then —
+Behind her voice, past it, was the room — the one that breathed chilled air into a space with no light, the one that had been full of — that held rows of — that was the kind of room that was full and then —
 
 His eraser closed over the noun like water over a stone. *Units.* No. The article buckled and landed nowhere. He let it go.
 
