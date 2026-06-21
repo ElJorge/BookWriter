@@ -151,24 +151,33 @@ prove that the billionaire in seat #12 is the Bat.
 
 28. **The two-faction deadlock.** The room splits, hitting the same wall for
     opposite reasons. **Faction 1 (anti-vigilante):** Joker's manipulation
-    landed; they won't convict on a case built by a masked man outside the law —
-    doubt about the *process.* **Faction 2 (anti-Bruce):** sick of the rich guy
+    landed; they won't convict on a case built by a masked man outside the law,
+    where not one witness even dared take the stand — doubt about the *process.*
+    **Faction 2 (anti-Bruce):** sick of the rich guy
     running the room, and if he's Batman (or just Batman's friend), his push to
     convict isn't justice — it's a man protecting his own. The trap is airtight:
     every argument Bruce makes to convict is heard by half the room as *Batman
     covering for Batman.*
 
-29. **The clean chain — but it can't be his.** The un-tainted evidence that never
-    needed Batman is right there: the bank's own cameras, the teller's testimony,
-    the marked cash on Joker when GCPD arrived. But in Bruce's mouth it's just
-    more manipulation. The case is winnable; he is the one person who can't win
-    it.
+29. **The clean chain — but it can't be his.** No one will ever testify against
+    the Joker (fear is his power; it's why every prior case collapsed), so the
+    conviction has to rest on evidence that *can't* be scared and never needed
+    Batman: the bank's own footage as a **silent witness** (auto-uploaded
+    off-site, so the cameras he shot out had already transmitted — the jury
+    watches him rob the bank, unmasked), **certified forensics** (prints/DNA on
+    the demand note and weapon, an analyst testifying to chemistry, not to
+    confronting him), and the **documentary bait-bill trail** (serials the bank
+    pre-logged that morning, booked through GCPD custody). It's all there. But in
+    Bruce's mouth it's just more manipulation. The case is winnable; he is the one
+    person who can't win it.
 
 30. **The turn — win by letting go.** Batman's instinct is control; here control
     is the poison. So Bruce does the most anti-Batman thing imaginable: he
     **surrenders the wheel.** Goes quiet, names the problem aloud — *"You're right
     not to trust me. So don't. Look at what's in front of you without me in the
-    room"* — and **hands the clean evidence to another juror to own and carry.**
+    room"* — and reframes the silence itself (*no one testified because the city
+    is too afraid of him — that's his signature, not your doubt*), then **hands
+    the clean evidence to another juror to own and carry.**
     Batman, who trusts no one to finish the job, has to hand it over and pray. The
     moment he removes himself as the variable, Faction 2's objection evaporates
     and the evidence convinces Faction 1.
