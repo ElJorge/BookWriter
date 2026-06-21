@@ -101,7 +101,14 @@ Why this line is the knife:
 - The Joker only names a thing he intends to **play with**. "Friends and family" isn't an accusation, it's a **to-do list**. He loses the trial and walks to his cell having identified Batman's one true vulnerability — not his face, his *people*. The verdict was never the war. This was reconnaissance.
 - It retroactively darkens the "barely good enough" stand-in beat: every person Bruce pulled in to save himself, he just **painted onto Joker's map**. Winning the trial cost him the secret he most needed to keep.
 
-**Nobody believes him.** Convicted madman, clown paint, the single truest sentence of the whole trial filed as a lunatic's parting tantrum. The hardass judge doesn't look up: *"Remove the defendant."* Public cover intact — and the headline ("JOKER ACCUSES BILLIONAIRE OF BEING BATMAN") still detonates exactly the circus Joker wanted from page one. He loses the case and wins the only game he was actually playing.
+**Nobody believes him.** Convicted madman, clown paint, the single truest sentence of the whole trial filed as a lunatic's parting tantrum. The hardass judge doesn't look up: *"Remove the defendant."* Public cover intact — but the line stays, because it shows **Joker still got exactly what he came for.** He loses the verdict and wins the only game he was actually playing:
+
+- **Chaos** — the trial became the circus he designed from page one.
+- **Bruce Wayne, tarnished** — forever "the billionaire the Joker called Batman"; the doubt never fully washes off, even cleared of it.
+- **Batman, tarnished** — the Dark Knight publicly chained to a playboy, his arrests now suspect, his legend a press punchline.
+- **The splinter** — and privately, he carries off the names of the people Bruce loves.
+
+The headline ("JOKER ACCUSES BILLIONAIRE OF BEING BATMAN") detonates regardless of the verdict. He goes to a cell having stained both the man *and* the mask — and that's a Joker victory dressed as a Joker defeat.
 
 **Last beat.** Bruce holds the playboy mask to stone. The room files it as lunacy. But the reader catches the tell: for half a second his eyes go not to the Joker — but to the empty witness seat, to the people who aren't in the room. The splinter he carries out isn't *does he know who I am*. It's *he's coming for everyone I love, and I handed him the names.*
 

@@ -186,12 +186,17 @@ prove that the billionaire in seat #12 is the Bat.
     to the packed gallery, grinning, pointing at juror #12:
     **"Well played with the friends and family, Batsy."**
 
-34. **Nobody believes him.** A convicted madman in clown paint; the single truest
-    sentence of the whole trial, filed as a lunatic's tantrum. The judge doesn't
-    look up: *"Remove the defendant."* Public cover intact — and the headline
-    ("JOKER ACCUSES BILLIONAIRE OF BEING BATMAN") still detonates the exact
-    circus Joker wanted from page one. He loses the verdict and wins the only
-    game he was playing.
+34. **Nobody believes him — but the line stays, because Joker still won.** A
+    convicted madman in clown paint; the single truest sentence of the whole
+    trial, filed as a lunatic's tantrum. The judge doesn't look up: *"Remove the
+    defendant."* Public cover intact — but the parting shot proves Joker got
+    exactly what he came for, win condition met despite the verdict: **chaos**
+    (the trial-as-circus he designed), **Bruce Wayne tarnished** (forever "the
+    billionaire the Joker called Batman"), **Batman tarnished** (the Dark Knight
+    chained to a playboy, his arrests now suspect, his legend a press punchline),
+    and **the splinter** (he leaves knowing the names of Bruce's people). The
+    headline detonates regardless of the verdict. He loses the case and wins the
+    only game he was playing — a Joker victory dressed as a Joker defeat.
 
 35. **Last beat.** Bruce holds the playboy mask to stone. The room reads lunacy.
     The reader catches the tell: for half a second his eyes go not to the Joker,
