@@ -69,7 +69,26 @@ The chain, clean:
 
 The gut-punch under the win: Bruce's two attempts to *protect* the secret — a friend in the box, family at the signal — are the exact two acts that drew Joker a map of the people he loves. Every defensive move was self-incrimination.
 
-**Lock 2 — the jury room.** The *real* climax, and where "just Bruce" wins. Joker's entire legal strategy is to make the case **about Batman** — because if the arrest is tainted vigilante fruit, *everything* is tainted. Bruce's move as juror isn't heroics; it's **dragging eleven people away from the Batman circus and back to the boring, clean evidence** that never needed Batman at all: the bank's own cameras, the teller's testimony, the marked cash literally on Joker when found. He builds the conviction on the un-tainted chain. The man everyone assumed would let Joker walk becomes the holdout who nails him — and can never tell anyone why he cared so much.
+**Lock 2 — the jury room.** The *real* climax, and where "just Bruce" wins. Joker's entire legal strategy is to make the case **about Batman** — because if the arrest is tainted vigilante fruit, *everything* is tainted. But the genius twist: **Bruce's own advocacy is poisoned.** The harder he pushes to convict, the more he proves the thing he's trying to disprove.
+
+The room splits into two factions that hit the same deadlock for **opposite reasons** — which is why Bruce can't satisfy both:
+
+- **Faction 1 — the anti-vigilante bloc.** Joker's manipulation landed. They look at what Batman did to him — the beating, the masked arrest — and won't convict on a case built by a man operating outside the law. Reasonable doubt about the *process.* They lean toward not convicting.
+- **Faction 2 — the anti-Bruce bloc.** Sick of the rich guy running the deliberation, and the smear has worked: *if* he's Batman, or even Batman's friend, his relentless push to convict isn't justice — it's a man protecting his own. The harder Bruce argues guilt, the more corrupt he looks.
+
+The trap is airtight: **every argument Bruce makes to convict is read by half the room as Batman covering for Batman.** His competence, command, certainty — all the things that make him Bruce Wayne — are exactly what brand him the manipulator. He can't advocate his way out, because advocacy *is* the evidence against him.
+
+**The resolution — the most anti-Batman thing he can do.** Batman's instinct is always control: take the room, run the play, win. Here, control is the poison — it's the literal thing Faction 2 reacts to. So Bruce wins by **letting go.** He stops steering, goes quiet, even names the problem: *"You're right not to trust me. So don't. Don't take my word for any of it. Look at what's in front of you without me in the room."* The moment he removes himself as the variable:
+
+- **Faction 2's objection evaporates** — no rich puppetmaster left to resist.
+- **The clean evidence carries itself** — but it has to be **owned by another juror**, not Bruce. He plants it and lets a stranger pick it up and run. (Batman, who trusts no one to finish the job, has to hand the job over and pray.)
+
+Joker built a trap that punishes Bruce for being in control. Bruce escapes it by doing the one thing Joker never bet he would: surrender the wheel.
+
+**The outcome — two honest endings, both satisfy "Joker doesn't walk":**
+
+1. **The conviction (decisive, recommended).** Once Bruce steps back, the clean chain convinces Faction 1, the anti-Bruce bloc has nothing left to push against, and the room comes around to **guilty.** Bruce wins by vanishing — proving the underestimated playboy can do the one thing the Batman can't: trust someone else and step away.
+2. **The hung jury (bittersweet).** They deadlock anyway → **mistrial.** Joker doesn't walk (held, pending retrial) but isn't convicted either. Nobody gets clean justice; Joker leaves content, having turned a slam-dunk into chaos — which was always the real win. Darker, more "Gotham," sets up a sequel.
 
 ## The ending
 
