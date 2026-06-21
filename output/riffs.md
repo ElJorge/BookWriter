@@ -46,11 +46,11 @@ Then the second summons hits: Joker moves to **recall Batman** — pretext, auth
 
 Now Bruce is being tried in the jury room **for being himself.**
 
-Cracking it, two threads:
+Cracking it:
 
-1. **The breakout / the rescue.** Bruce has to beat his own security to free Nightwing in time — *as just Bruce, no gadgets.* The cage he built, picked from the inside, with nothing but the mind Joker keeps mocking. (It proves Wayne security has exactly one exploitable flaw — its designer.) Maybe he gets word to **Alfred** to run the extraction while he can't move himself.
+**The cage is perfect — Bruce can't act.** He hunts for a way out and realizes his own security is keyed to *him*: facial recognition, gait analysis, biometrics, all trained most thoroughly on Bruce Wayne. Any move off-pattern flags and catches him. The system he built to stop intruders is flawless at stopping its own architect. For the first time he is completely without Batman — and the Gotham side (freeing Nightwing, the rest) is handled by the family *without* him. No cavalry reaches the trial.
 
-2. **The jury room is the real win — and now it's hostile.** Bruce can't prove "Batman is real and separate" anymore. He has to convict Joker on the **clean, un-tainted evidence** (bank cameras, teller, marked cash) *while talking eleven people — some now suspecting him — off the Bruce-is-Batman ledge.* He defends his own innocence and prosecutes Joker's guilt in the same breath, and can never tip his hand about why he knows tainted vigilante fruit from clean evidence so well.
+**So the jury room is the only theater left — and it's hostile.** Bruce can't prove "Batman is real and separate" anymore. He has to convict Joker on the **clean, un-tainted evidence** (bank cameras, teller, marked cash) *while talking eleven people — some now suspecting him — off the Bruce-is-Batman ledge.* He defends his own innocence and prosecutes Joker's guilt in the same breath, and can never tip his hand about why he knows tainted vigilante fruit from clean evidence so well. He wins as a *man*, not as Batman — the thing Joker mocks turns out to be the only weapon that works.
 
 ## The Alfred gambit — how "friends and family" gets earned
 
