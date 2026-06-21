@@ -89,6 +89,24 @@ Joker built a trap that punishes Bruce for being in control. Bruce escapes it by
 
 *(Alternative considered and set aside — the hung jury / mistrial: Joker held pending retrial but never convicted, chaos as his real win. Darker, sequel-friendly, but it doesn't land Bruce's arc, so we're going with the decisive conviction.)*
 
+## The clean evidence — what actually convicts Joker
+
+The constraint: it has to survive **deleting Batman from the universe entirely.** If any link needs Batman — his testimony, his subdual, anything he touched — the "tainted vigilante fruit" theory swallows it. The win is the case that was always there, sitting under the Batman circus.
+
+**Why it *looks* tainted (the defense's hook).** Joker's lawyer argues **Batman is effectively a state actor** — GCPD lights the signal, accepts his collars, Gordon works with him — so his beating and arrest are an unlawful seizure and everything flowing from it is poisoned fruit. That's the cloud, and what Joker uses to manipulate Faction 1. (Real-world wrinkle to lean on: evidence gathered by a true *private* party isn't subject to the exclusionary rule — it exists to deter *police.* So the defense *needs* Batman to be a state actor for the taint theory to work at all. A pressure point the prosecution underuses.)
+
+**The clean chain — three pillars, zero Batman:**
+
+1. **The bank's own surveillance footage.** Subpoenaed from the *bank*, not handed over by Batman. The system **auto-uploads to off-site servers**, so even the cameras Joker shot out had already transmitted — pre-empting the "he destroyed the evidence" objection. Shows the Joker, unmasked (he never hides his face), robbing the bank. Provenance: the bank.
+2. **The hostages and tellers.** A dozen terrified people who looked the Joker in the eye across the counter. Their ID is independent of how he was caught. Multiple, consistent, victim eyewitnesses.
+3. **The bait bills.** Banks pre-log marked-bill serial numbers *before* any robbery. Those exact serials turn up in the recovered loot, booked through **GCPD's own chain of custody.** The bills' *identity* is bank-sourced (logged that morning); the *recovery* is GCPD's inventory. Batman is never in the chain. (Kept as the concrete smoking gun — survives the taint fight because its identity comes from the bank, not the arrest.)
+
+Together: a man, unmasked on the bank's own footage, identified by twelve victims, connected to bills the bank serial-logged that morning. A complete armed-robbery conviction that never says the word "Batman."
+
+**Bruce's reframe — the move that wins.** Amputate Batman entirely: *"Pretend Batman was never there. Is the man on the bank's own cameras — the one twelve people looked in the eye, holding bills the bank wrote down that morning — guilty? Then the masked man is a distraction the defense needs you staring at, because it's the only place their case isn't airtight."* The vigilante question becomes irrelevant.
+
+**The secret edge (and why his advocacy is poison).** Bruce can separate clean from tainted with surgical precision because he's the one who knows *exactly* what Batman touched and what he didn't — no one alive can draw that line as cleanly. It's his superpower in that room, and it's *exactly* why Faction 2 distrusts him: the man who knows precisely which evidence is Batman-free looks like a man with inside knowledge of Batman. Which is why he can't be the one to say it — he plants the reframe and lets another juror carry it home.
+
 ## The ending
 
 Verdict: **guilty**, on the clean evidence. Joker loses the case he was supposed to walk out of. He's led out in cuffs — and instead of whispering, he says it **loud**, to the whole gallery, grinning, pointing at juror #12:
