@@ -85,10 +85,9 @@ The trap is airtight: **every argument Bruce makes to convict is read by half th
 
 Joker built a trap that punishes Bruce for being in control. Bruce escapes it by doing the one thing Joker never bet he would: surrender the wheel.
 
-**The outcome — two honest endings, both satisfy "Joker doesn't walk":**
+**The outcome — CHOSEN: the conviction (decisive).** Once Bruce steps back, the clean chain convinces Faction 1, the anti-Bruce bloc has nothing left to push against, and the room comes around to **guilty.** Bruce wins by vanishing — proving the underestimated playboy can do the one thing the Batman can't: trust someone else and step away. It pays off the arc.
 
-1. **The conviction (decisive, recommended).** Once Bruce steps back, the clean chain convinces Faction 1, the anti-Bruce bloc has nothing left to push against, and the room comes around to **guilty.** Bruce wins by vanishing — proving the underestimated playboy can do the one thing the Batman can't: trust someone else and step away.
-2. **The hung jury (bittersweet).** They deadlock anyway → **mistrial.** Joker doesn't walk (held, pending retrial) but isn't convicted either. Nobody gets clean justice; Joker leaves content, having turned a slam-dunk into chaos — which was always the real win. Darker, more "Gotham," sets up a sequel.
+*(Alternative considered and set aside — the hung jury / mistrial: Joker held pending retrial but never convicted, chaos as his real win. Darker, sequel-friendly, but it doesn't land Bruce's arc, so we're going with the decisive conviction.)*
 
 ## The ending
 

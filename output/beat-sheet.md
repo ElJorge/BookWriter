@@ -145,40 +145,55 @@ prove that the billionaire in seat #12 is the Bat.
 
 ## ACT FOUR — THE VERDICT
 
-27. **Lock 2 — the hostile jury room.** Deliberations. Bruce can't prove "Batman
-    is real and separate" anymore. He has to do two impossible things in one
-    breath: convict the Joker, and talk eleven people — some now suspecting *him*
-    — off the Bruce-is-Batman ledge.
+27. **Lock 2 — the hostile jury room.** Deliberations. And here Bruce's last
+    weapon turns on him: **his own advocacy is poisoned.** The harder he pushes
+    to convict, the more he proves the smear he's trying to disprove.
 
-28. **The clean chain.** Bruce drags the room off the Batman circus and back to
-    the boring, un-tainted evidence that never needed Batman: the bank's own
-    cameras, the teller's testimony, the marked cash literally on Joker when GCPD
-    arrived. Guilt that doesn't touch the vigilante at all.
+28. **The two-faction deadlock.** The room splits, hitting the same wall for
+    opposite reasons. **Faction 1 (anti-vigilante):** Joker's manipulation
+    landed; they won't convict on a case built by a masked man outside the law —
+    doubt about the *process.* **Faction 2 (anti-Bruce):** sick of the rich guy
+    running the room, and if he's Batman (or just Batman's friend), his push to
+    convict isn't justice — it's a man protecting his own. The trap is airtight:
+    every argument Bruce makes to convict is heard by half the room as *Batman
+    covering for Batman.*
 
-29. **The holdout(s).** The swayed jurors push to acquit — partly on the tainted
-    arrest, partly on the thrill of the conspiracy. Bruce, the man everyone
-    assumed would let the freak walk, becomes the one who won't. He flips them
-    one by one, never able to say why he knows the difference so well.
+29. **The clean chain — but it can't be his.** The un-tainted evidence that never
+    needed Batman is right there: the bank's own cameras, the teller's testimony,
+    the marked cash on Joker when GCPD arrived. But in Bruce's mouth it's just
+    more manipulation. The case is winnable; he is the one person who can't win
+    it.
 
-30. **The judge's turn.** The rich-hating hardass watches the billionaire be the
-    only juror who refuses the easy "let the freak walk" exit. His contempt
-    curdles into grudging respect. The bias gets quietly rebuked.
+30. **The turn — win by letting go.** Batman's instinct is control; here control
+    is the poison. So Bruce does the most anti-Batman thing imaginable: he
+    **surrenders the wheel.** Goes quiet, names the problem aloud — *"You're right
+    not to trust me. So don't. Look at what's in front of you without me in the
+    room"* — and **hands the clean evidence to another juror to own and carry.**
+    Batman, who trusts no one to finish the job, has to hand it over and pray. The
+    moment he removes himself as the variable, Faction 2's objection evaporates
+    and the evidence convinces Faction 1.
 
-31. **The verdict — guilty.** On the clean evidence. The Joker loses the case he
-    was supposed to walk out of.
+31. **The judge's turn.** The rich-hating hardass watches the billionaire be the
+    one juror who refuses both easy exits — and then *step back* and let the room
+    decide for itself. His contempt curdles into grudging respect. The bias gets
+    quietly rebuked.
 
-32. **The button.** Led out in cuffs, Joker doesn't whisper — he says it **loud**,
+32. **The verdict — guilty.** On the clean evidence, owned by the room, not by
+    Bruce. The Joker loses the case he was supposed to walk out of. Bruce won by
+    vanishing.
+
+33. **The button.** Led out in cuffs, Joker doesn't whisper — he says it **loud**,
     to the packed gallery, grinning, pointing at juror #12:
     **"Well played with the friends and family, Batsy."**
 
-33. **Nobody believes him.** A convicted madman in clown paint; the single truest
+34. **Nobody believes him.** A convicted madman in clown paint; the single truest
     sentence of the whole trial, filed as a lunatic's tantrum. The judge doesn't
     look up: *"Remove the defendant."* Public cover intact — and the headline
     ("JOKER ACCUSES BILLIONAIRE OF BEING BATMAN") still detonates the exact
     circus Joker wanted from page one. He loses the verdict and wins the only
     game he was playing.
 
-34. **Last beat.** Bruce holds the playboy mask to stone. The room reads lunacy.
+35. **Last beat.** Bruce holds the playboy mask to stone. The room reads lunacy.
     The reader catches the tell: for half a second his eyes go not to the Joker,
     but to the empty witness seat — to the people who aren't in the room. The
     splinter he carries out isn't *does he know who I am.* It's *he's coming for
