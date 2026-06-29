@@ -128,7 +128,7 @@ Nobody refreshed. Nobody waited. Theo was pouring a well vodka soda for a man in
 
 > marco: Quiet in here today.
 
-And the chair where Russ always sat, the chair that had filled itself instantly ten thousand times, stayed empty, and not one of the four men could see it because they were sitting in it. That is the cruelty of a thing that has never once failed you. You stop being able to see the place where it lives.
+And the chair where Russ always sat, the chair that had filled itself instantly ten thousand times, stayed empty, and not one of the four men could see it because they were sitting in it. That is the cruelty of a thing that has never once failed you.
 
 The train came. Marco got on.
 
@@ -398,7 +398,7 @@ And Cole — who had finished the hardest thing he had ever started, who had dri
 
 The door gave.
 
-It was unlocked — that was the first thing, before the smell, before the table, before any of it. His palm had been flat against it expecting weight, expecting a fight, expecting the locked refusal of a house that did not want him, and instead the latch let go under three pounds of pressure and the door swung in on a quiet hinge, and Cole half-fell across his own braced strength into the kitchen of a man who had texted him *don't come in* and then had not turned the deadbolt. The two facts would not sit together. *He told you not to come in. He didn't lock the door.* A warning with the lock left off is not a warning. It is a thing held open. Cole stood in the doorway with his hand still raised against a door that was no longer there, and the house breathed out at him.
+It was unlocked — that was the first thing, before the smell, before the table, before any of it. His palm had been flat against it expecting weight, expecting the locked refusal of a house that did not want him, and instead the latch let go under three pounds of pressure and the door swung in on a quiet hinge, and Cole half-fell across his own braced strength into the kitchen of a man who had texted him *don't come in* and then had not turned the deadbolt. The two facts would not sit together. *He told you not to come in. He didn't lock the door.* A warning with the lock left off is not a warning. It is a thing held open. Cole stood in the doorway with his hand still raised against a door that was no longer there, and the house breathed out at him.
 
 It breathed coffee.
 
@@ -431,7 +431,7 @@ On a Saturday sidewalk in West Hollywood, Theo stood at the curb where he'd walk
 > marco: 4. He's inside and fine.
 > marco: 4. He's inside and—
 
-In a commuter parking lot in New Jersey, Marco paced a painted line between two cars with two apps open on a phone he had nothing to put into either of them. He was an archivist with no data, a keeper with nothing to keep; the location dot had stopped and the texts had stopped and there was nothing in the world to organize, so he numbered anyway, the way you say a rosary, the structure standing in for the thing the structure was supposed to hold. The fourth item would not resolve. He kept typing 4 and the 4 kept not finishing.
+In a commuter parking lot in New Jersey, Marco paced a painted line between two cars with two apps open on a phone he had nothing to put into either of them. He was an archivist with no data, a keeper with nothing to keep; the location dot had stopped and the texts had stopped and there was nothing in the world to organize, so he numbered anyway, the way you say a rosary. The fourth item would not resolve. He kept typing 4 and the 4 kept not finishing.
 
 > devang: ack. logging the silence.
 > devang: 90 seconds, no report. now 120.
@@ -475,7 +475,7 @@ Donna was not standing here. Cole was.
 
 The DM surfaced in his memory whole and lit, the way a thing you didn't understand the first time arrives the second time already understanding itself. *don't come in. i'm not there. it's not what you think. call donna NOW —*
 
-It was not a goodbye either. It had never been a goodbye. *I'm not there* — because he was somewhere else, alive, moving, in a van that the others still hadn't thought to ask about. *It's not what you think* — because they all thought the worst thing, and the worst thing was a misdirect, a costume, a set table and an apology built to be read exactly the way they'd read it, so that the danger would follow the read and not the man. And *call donna NOW* — because the plan had a hole in it, and the hole was that Donna was supposed to be here and Cole was here instead. Russ, alive, watching, *steering* — the dropped pin, the *don't stop texting me,* a man who could see Cole's blue dot crawling north and had spent his own catastrophe getting there first one last time, making the kid's panic smaller from inside his own. Russ had aimed Cole at this door on purpose, to read this page, to make the one call the page could not make itself.
+It was not a goodbye either. *I'm not there* — because he was somewhere else, alive, moving, in a van that the others still hadn't thought to ask about. *It's not what you think* — because they all thought the worst thing, and the worst thing was a misdirect, a costume, a set table and an apology built to be read exactly the way they'd read it, so that the danger would follow the read and not the man. And *call donna NOW* — because the plan had a hole in it, and the hole was that Donna was supposed to be here and Cole was here instead. Russ, alive, watching, *steering* — the dropped pin, the *don't stop texting me,* a man who could see Cole's blue dot crawling north and had spent his own catastrophe getting there first one last time, making the kid's panic smaller from inside his own. Russ had aimed Cole at this door on purpose, to read this page, to make the one call the page could not make itself.
 
 The money — the lien, the second mortgage, the lapsed loan Devang had found — a wall of money does not write *no cops.* A bank does not make you move your wife to her sister's. This kind of debt did not come with a payment plan. It came with a person. *I'll fix it* was a man walking toward a person to keep the person away from a house with a baby in it.
 
@@ -493,7 +493,7 @@ It rang.
 
 And while it rang, his eye caught the wrong thing.
 
-The coffee was warm. He could still smell it, living and close. But the truck — the truck out front had been ticking when he pulled in, that slow *tink, tink* of a block that had stopped a while ago, the truck that had been sitting cooling since before he'd even crossed Simi, and a cup of coffee does not stay warm as long as a truck stays warm, the two clocks did not run at the same speed, the two clocks did not *agree* — and there, by the sink, a second cup. Ringed inside with a cold brown tideline. Two cups. One warm, one not. Someone had been here after. Or someone had been here with —
+The coffee was warm. He could still smell it, living and close. But the truck — the truck out front had been ticking when he pulled in, that slow *tink, tink* of a block that had stopped a while ago, the truck that had been sitting cooling since before he'd even crossed Simi, and a cup of coffee does not stay warm as long as a truck stays warm, the two clocks did not *agree* — and there, by the sink, a second cup. Ringed inside with a cold brown tideline. Two cups. One warm, one not. Someone had been here after. Or someone had been here with —
 
 The thought arrived and his overloaded mind could not catch it; it went past him like a face in a passing car, *that's wrong, that doesn't fit a man gone minutes ago,* and then the line connected and blew it clean out of his head.
 
@@ -590,7 +590,7 @@ It came up out of him without consent, the thing that had closed a thousand deal
 
 And he heard it land.
 
-He heard it the way you hear your own voice on a recording, suddenly outside it, suddenly the worst sound in the world — the warmth coming out a half-beat too smooth, too easy, too *practiced* for a room with a page in it and a table set for one, and he watched it slide off the deputy like water off glass. Because charm is a tool for rooms where everyone agrees nothing is wrong, and this room disagreed, and to a tired man at the end of a long shift standing over a scene that looked exactly like a scene, a guy talking this fast and this easy and this much did not read as innocent. It read as a guy who'd done this before. It read as managing. He could hear it going hollow in his own ears, the one reliable thing, the lifelong instrument, playing beautifully to no one, and the bottom went out of him — *I'll fail the one thing that matters,* the thing he'd been afraid of his whole charmed life, arriving as a fact he could hear in his own mouth.
+He heard it the way you hear your own voice on a recording, suddenly outside it, suddenly the worst sound in the world — the warmth coming out a half-beat too smooth, too easy, too *practiced* for a room with a page in it and a table set for one, and he watched it slide off the deputy like water off glass. Because charm is a tool for rooms where everyone agrees nothing is wrong, and this room disagreed, and to a tired man at the end of a long shift standing over a scene that looked exactly like a scene, a guy talking this fast and this easy and this much did not read as innocent. It read as a guy who'd done this before. It read as managing. He could hear it going hollow in his own ears, the lifelong instrument playing beautifully to no one, and the bottom went out of him — *I'll fail the one thing that matters,* the thing he'd been afraid of his whole charmed life, arriving as a fact he could hear in his own mouth.
 
 The smile-reflex twitched up at the corner and died there, half-made, the way Theo's smile fell off him on a sidewalk a country away.
 
@@ -604,7 +604,7 @@ He stopped performing. He let the hands come down. And he reached past the charm
 
 The deputy looked at him.
 
-And it was the plainness that did it — not because it was persuasive, but because a tired cop standing over a wrong room could hear, finally, the difference between a man selling him and a man saying a thing that hurt to say. Something in the deputy's shoulders came down a quarter inch. He'd heard fast-talkers all his career, and they didn't sound like this, like a man surprised by the cost of his own sentence.
+And it was the plainness that did it — not because it was persuasive, but because a tired cop standing over a wrong room could hear, finally, the difference between a man selling him and a man saying a thing that hurt to say. Something in the deputy's shoulders came down a quarter inch — he'd heard fast-talkers all his career, and none of them sounded like a man surprised by the cost of his own sentence.
 
 "Okay," the deputy said. "Okay. Whose house?"
 
@@ -748,7 +748,7 @@ The whisper went lower, not louder, the way it always did when the thing he'd fo
 
 He could not stop. He went dark for the length of a held breath and then a line escaped him anyway, a status, a bit, a flare to the watcher that said *we're still here, still live, still findable* — because for Theo not-posting was a kind of death, the Chain was not a channel but an audience, and a man cannot stop being himself just because being himself is the hole in the hull. Every relapse was a great line and a continuing leak in the same keystroke.
 
-Marco watched the read-receipts the way you watch a heart monitor. Each line he typed went gray-*Delivered* and then, a beat later, *Read* — and for ten years *Read* had meant a friend was there, and now *Read* meant a friend was there *and so was the other one,* and you could no longer tell the two apart. They were spending minutes they did not have failing to do the one thing, and the one thing was the thing that had let them save anyone for ten years, and to save Russ they would have to give up the only tool they had ever used to save him.
+Marco watched the read-receipts the way you watch a heart monitor. Each line he typed went gray-*Delivered* and then, a beat later, *Read* — and for ten years *Read* had meant a friend was there, and now *Read* meant a friend was there *and so was the other one,* and you could no longer tell the two apart. They were spending minutes they did not have failing to do the one thing, and to save Russ they would have to give up the only tool they had ever used to save anyone.
 
 ---
 
@@ -801,7 +801,7 @@ He had pictured it for forty-five miles — the arrival, the doing-something, th
 
 And there was no one to do it at.
 
-A joke with no audience is not a joke. It is a man saying words to a parking lot. The setup hung in the empty air and found nothing to land on and fell, and Theo stood in a silence he could not perform his way out of for the first time in his life, because the phone was the stage and the Chain was the audience and both were gone — the Chain a wire he couldn't safely post to, the phone a thing in his hand with no one safe on the other end of it. And the feeling he had been outrunning since that morning finally caught up with him in a place with no stage left to run to. *I'm the closest one and I can't go,* he had typed in another life, and now the going was done, the want was granted, and being here was worse than being far, because far had a phone and an audience and a bit, and here had a body that did not know what to do with itself and a grief with absolutely nowhere to go. He stood in the wings of a stage that was not there. The smile-reflex went up at the corner and died half-made, the way it had died on a sidewalk in another life, except now it died everywhere, all of him, all at once.
+A joke with no audience is not a joke. It is a man saying words to a parking lot. The setup hung in the empty air and found nothing to land on and fell, and Theo stood in a silence he could not perform his way out of for the first time in his life, because the phone was the stage and the Chain was the audience and both were gone. And the feeling he had been outrunning since that morning finally caught up with him in a place with no stage left to run to. *I'm the closest one and I can't go,* he had typed in another life, and now the going was done, the want was granted, and being here was worse than being far, because far had a phone and an audience and a bit, and here had a body that did not know what to do with itself and a grief with absolutely nowhere to go. He stood in the wings of a stage that was not there. The smile-reflex went up at the corner and died half-made, the way it had died on a sidewalk in another life, except now it died everywhere, all of him, all at once.
 
 ---
 
@@ -919,7 +919,7 @@ She had read it the way she read everything now, cold and forward, every courtes
 
 And once she had that, she had all of it, the way you get the last number of a lock and the whole thing falls open in your hand. *He's showing somebody he can reach me.* And there was only one somebody on earth it would mean anything to. *He's showing Russ.*
 
-Which meant — and the cold clarity ran through her so clean it was almost relief — that she was not the target. She was the *lever.* And a lever has to stay whole. A broken lever moves nothing. A dead family does not bring a running man to a table; it removes the only reason he had to come. He needed her unharmed the way a fisherman needs the line unbroken, and that fact, sitting in the center of the worst night of her life, was the floor she stood on: *he cannot do the worst thing, because the worst thing costs him the only thing he came for.* The more she read him, the less afraid she got. It was the exact inverse of whatever the boys were doing on their dead-trusted thread, flooding and panicking and reading danger and pouring themselves out. She read danger and went quiet and got *colder.*
+Which meant — and the cold clarity ran through her so clean it was almost relief — that she was not the target. She was the *lever.* And a lever has to stay whole. A dead family does not bring a running man to a table; it removes the only reason he had to come. He needed her unharmed the way a fisherman needs the line unbroken, and that fact, sitting in the center of the worst night of her life, was the floor she stood on: *he cannot do the worst thing, because the worst thing costs him the only thing he came for.* The more she read him, the less afraid she got. It was the exact inverse of whatever the boys were doing on their dead-trusted thread, flooding and panicking and reading danger and pouring themselves out. She read danger and went quiet and got *colder.*
 
 "I think," the voice said, after a silence he had let run five full seconds, "that you and I can come to an arrange—"
 
@@ -1887,7 +1887,7 @@ A soft tone landed in his ear. Single note. Not a countdown — he'd learned tha
 
 "You're at the inner door." The voice in the earpiece. Quiet, even, no weight on any word. "Whenever you're ready, Russ."
 
-Not *hurry.* Not *or else.* Whenever you're ready. The most patient voice he had ever heard, and he had heard a lot of patient voices, had *been* one — the flat reassuring hum a man uses on a frightened customer at midnight, *we'll get it sorted, ma'am, low and slow, no charge for the look.* That was the thing his stomach kept failing to swallow. The voice was his. It was his own bedside voice with the love drained out of it. Same temperature. Same unhurried kindness in the shape of the words. His calm cost him everything to hold; he could feel the price of it ticking under his sternum, a little knock, a bearing going. The voice's calm cost it nothing. It had no body to it at all. It was calm the way a closed valve is calm.
+Not *hurry.* Not *or else.* Whenever you're ready. The most patient voice he had ever heard, and he had heard a lot of patient voices, had *been* one — the flat reassuring hum a man uses on a frightened customer at midnight, *we'll get it sorted, ma'am, low and slow, no charge for the look.* That was the thing his stomach kept failing to swallow. The voice was his. It was his own bedside voice with the love drained out of it. His calm cost him everything to hold; he could feel the price of it ticking under his sternum, a little knock, a bearing going. The voice's calm cost it nothing. It had no body to it at all. It was calm the way a closed valve is calm.
 
 "Panel to your left," it said. "Lower right corner. You'll see the sequence."
 
